@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Property Details</title>
+</head>
+<body>
+  <h1>🏠 Property Details</h1>
+  <div id="property-details">Loading...</div>
+
+  <script>
+    const id = window.location.pathname.split("/").pop();
+
+    fetch(`/api/property/${id}`)
+      .then(res => res.json())
+      .then(data => {
+        const div = document.getElementById("property-details");
+        if (data.error) {
+          div.innerHTML = `<p>Error: ${data.error}</p>`;
+        } else {
+          div.innerHTML = `
+            <ul>
+              <li><strong>Code:</strong> ${data.code}</li>
+              <li><strong>Title:</strong> ${data.title}</li>
+              <li><strong>City:</strong> ${data.city}</li>
+              <li><strong>Price:</strong> ${data.price} €</li>
+              <li><strong>Area:</strong> ${data.area} m²</li>
+              <li><strong>Bedrooms:</strong> ${data.bedrooms}</li>
+              <li><strong>Bathrooms:</strong> ${data.bathrooms}</li>
+              <li><a href="${data.url}" target="_blank">Voir sur site officiel</a></li>
+            </ul>
+          `;
+        }
+      })
+      .catch(err => {
+        document.getElementById("property-details").innerHTML = `<p>❌ Failed to load property.</p>`;
+        console.error(err);
+      });
+  </script>
+</body>
+</html>

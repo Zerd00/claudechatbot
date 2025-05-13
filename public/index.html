@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Claude Chatbot</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="chat-container">
+    <h1>💬 Ask Claude</h1>
+    <div id="chatbox"></div>
+
+    <div id="typing" class="typing" style="display: none;">
+      <strong>Claude:</strong> <span class="dots">is typing<span>.</span><span>.</span><span>.</span></span>
+    </div>
+
+    <div class="input-area">
+      <textarea id="prompt" placeholder="Ask your question about a property..."></textarea>
+      <button onclick="sendPrompt()">Send</button>
+    </div>
+  </div>
+
+  <script>
+    async function sendPrompt() {
+      const prompt = document.getElementById("prompt").value.trim();
+      const chatbox = document.getElementById("chatbox");
+      const typing = document.getElementById("typing");
+
+      if (!prompt) return;
+
+      chatbox.innerHTML += `<p class="user-msg"><strong>You:</strong> ${prompt}</p>`;
+      document.getElementById("prompt").value = "";
+
+      typing.style.display = "block";
+
+      try {
+        const res = await fetch("/chat", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ prompt })
+        });
+
+        const data = await res.json();
+
+        typing.style.display = "none";
+        chatbox.innerHTML += `<div class="claude-msg"><strong>Claude:</strong><br>${data.reply}</div>`;
+
+      } catch (err) {
+        typing.style.display = "none";
+        chatbox.innerHTML += `<p class="claude-msg error"><strong>Claude:</strong> ❌ Error loading response.</p>`;
+      }
+
+      chatbox.scrollTop = chatbox.scrollHeight;
+    }
+  </script>
+</body>
+</html>

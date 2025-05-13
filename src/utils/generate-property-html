@@ -1,0 +1,23 @@
+function generatePropertyHtml(property) {
+  const code = `
+    <div>
+      <h2>Property Details</h2>
+      <ul>
+        ${property.code ? `<li><strong>Code:</strong> ${property.code}</li>` : ''}
+        ${property.price ? `<li><strong>Price:</strong> ${property.price} €</li>` : ''}
+        ${property.area ? `<li><strong>Area:</strong> ${property.area} m²</li>` : ''}
+        ${property.bedrooms ? `<li><strong>Bedrooms:</strong> ${property.bedrooms}</li>` : ''}
+        ${property.bathrooms ? `<li><strong>Bathrooms:</strong> ${property.bathrooms}</li>` : ''}
+        ${property.city ? `<li><strong>City:</strong> ${property.city}</li>` : ''}
+        ${property.category?.value ? `<li><strong>Category:</strong> ${property.category.value}</li>` : ''}
+        ${property.parentCategory?.value ? `<li><strong>Parent category:</strong> ${property.parentCategory.value}</li>` : ''}
+        ${property.url ? `<li><a href="${property.url}" target="_blank">View full listing</a></li>` : ''}
+      </ul>
+    </div>
+  `.trim();
+
+  // Encapsuler dans <pre> pour éviter que Claude "corrige" le mot Bathrooms
+  return `<pre>${code.replace(/</g, '&lt;').replace(/>/g, '&gt;')}</pre>`;
+}
+
+module.exports = { generatePropertyHtml };

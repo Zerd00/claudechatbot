@@ -1,0 +1,3491 @@
+[
+  {
+    "id": 2157,
+    "code": "2570",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 68,
+    "plotArea": null,
+    "price": 450,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3_2570__92551da9-6543-4706-8dc5-8c80a4fcaf0e_8c399c40f8e03a0a024d5c02e7725875_1685010880.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2570__def574fd-1298-4b2a-9f18-6b603b7e2a75_e15b6667c837bdbf38e1036a33d1662d_1685010884.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2570__f40277ae-b846-4208-ae14-8fcf143cca31_6f81d297a49c8b2b9a0bf903979bb46a_1685010873.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2570__347ced3d-78e1-46a8-b46d-eaf5e264e3f7_157a01d12b8c24dc721f84d56da89494_1685010882.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2570__4bbc19b0-e8b0-479b-8e2b-55904c18ce5c_c2ad70794f6378984c90cfa306958363_1685010877.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2570__6f4a2b44-10a5-4eab-97f8-22810dd055e3_7a87c4c9d24bef706657ea3acb210bc0_1685010870.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2570__64807316-65d1-4143-b982-5bd5c9376c1f_d24d4c957240e21d2e53402564ee366a_1685010868.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2570__ab0f3411-cb58-4576-9e16-e6d080bfb0d2_34d479ba66fd5911848a50c741b99387_1685010889.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2570__ba06a84d-7242-4142-9733-060c4b84bb29_77ddb37bbbb7917a570cbe75700f7ebd_1685010886.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2570__d7fcf976-1926-43ce-b4af-06581005f0bf_f3e24b760035df42b7c49da644b4db2a_1685010875.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2570__0c84ffb1-1d81-48d0-9a65-3f483af95389_b87db89d560f03f51476b5d599881dc1_1685011935.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2570__8283720a-a2bf-4ee0-ab18-d29fecc329a6_02564555f7f0630c78d75b4079b4a929_1685011938.JPG"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": true,
+    "createdAt": 1708688099000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Voud",
+    "complexGR": "Βουδ",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 2170,
+    "code": "2905",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 55,
+    "plotArea": null,
+    "price": 380,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3___5440cd24-17fc-4fce-b319-0563edb17786_d37963e6f0e9fbb255b76f1029f137d0_1707830344.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___8670fa76-6790-439d-a926-f6602cb94fdb_00829c53aca53ed5dd0a708fdfe16376_1707830341.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___028c564f-af1e-41f0-8633-c2e1197d5304_202d1d69ab2d69bbce47807df22841bd_1707830336.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___437a3150-4552-4da4-b785-c3cb68faa555_7fa405ff61c0c02822f3422a280ec028_1707830331.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___0b7a26e4-310b-4a9b-bf14-6fc0473bcd37_07fc109660540bb5af84acfac10ef4fe_1707830333.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___65a20a13-81dc-42cc-b29b-25c5b5b59d3e_7af2c097f78f43782106540e235bdcf7_1700127572.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___4a8f83f6-e8ab-49c3-9fd6-caf3e4d730ca_6382f2da0295ce8a69a9799f16c91e05_1700127564.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___abcf7516-e1ac-4cce-b60a-767e53b05a80_9cd198c1500fbc4361f4c4ee7d9c95f4_1707830339.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": true,
+    "createdAt": 1708941693000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Zavlani",
+    "complexGR": "Ζαβλάνι",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 2622,
+    "code": "3201",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 95,
+    "plotArea": null,
+    "price": 520,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3___bd9852ad-c3b6-4546-a2b4-96748380d663_DSC_5560-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___2d9cac8a-255e-43dc-82cc-cf2e52e15aaa_DSC_5483-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___e8c16035-8189-4b68-802c-2ec87f3809b9_DSC_5490-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___da7c2d94-0bdf-4131-b817-a6b8c54332b9_DSC_5504-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___93162ab5-9f53-4b9a-9349-63d3d42c8ed9_DSC_5588-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___8a193437-d626-468c-870d-3ecdd5293531_DSC_5574-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___0ba4a74c-4874-4223-8595-83c6cbfb6bc4_DSC_5518-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___6de1a0c6-3951-43e3-bf86-c7bf1046ce75_DSC_5511-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___0753a1e1-9de7-4feb-9e1f-085c4ce6d697_DSC_5525-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___16c08ce8-08fe-401e-8b58-68f19465fa52_DSC_5532-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___028e90a2-1dac-4211-b7d5-d4966ae04d32_DSC_5546-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___cc180035-b334-41ea-bbe3-041150486e60_DSC_5553-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___9fdd3bc3-1df5-4371-96ed-e36f5fec7bfd_DSC_5539-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___f82866db-e2e6-4ef5-85b6-0deb36be83a2_DSC_5567-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___179580d0-8448-4717-ba49-89e2247a49e7_DSC_5595.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1720768921000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3546,
+    "code": "3527",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 33,
+    "plotArea": null,
+    "price": 350,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3527__22a4853f-82df-4a3e-b1d8-f53d0d090fed_0bef0e8841c02bdce842713bc7f606b1_1739522257.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3527__e394b59b-2076-460f-bc00-97987829e6cf_fd2b7493d51c67bd2d4e9b5c213f914e_1739522260.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3527__64641d56-6cfa-459d-948c-b152951f0165_1181bd744396aead14e8504b831fecda_1739522246.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3527__62ba43f9-35b0-4914-b96d-3a07f18d52c2_4819c26f863e9846889ffed456ba3cfc_1739522249.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3527__08298abd-76de-4ee6-8986-6ffd64e8a831_cdac909e09de6afff326468293c6aed7_1739522252.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3527__80bc3ad0-9c82-4cef-87c7-ce3556844181_e69079dc74eaee6d0467906c45cb7dd4_1739522251.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3527__af3aa629-866f-4c35-a962-6f04d27a15df_42ca1050f6c5fe2a3cb09e684df85ea4_1739522258.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1739524669000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 2160,
+    "code": "2633",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 50,
+    "plotArea": null,
+    "price": 300,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3_2633__a575fb0c-5f07-47c0-8ca0-210dbbcf6da3_6fe3f3e83167ab9c049922d5074b87e0_1688453882.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2633__c438ef79-a504-4329-be54-f7b5ad160b29_f7999ccc296cc4841c4603ad3a855cef_1688453884.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2633__a3d6c98f-96ff-4bba-bb12-c7cede61ca3c_c7e497fd9782619e91bcffd486caff84_1688453887.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2633__8db85dd9-2489-4dd8-ab95-3d19cdd3653e_08f3cdc9ca7d1e8ac47e038be13bbfdc_1688453894.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2633__344965d7-8413-443e-b7f0-2c8fa36895ab_1fd1082d5ed2d2f5b78206ace3e24514_1688453890.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2633__6833bdcb-97c1-4733-96bd-1c8d3a982224_ff8d94f906a1db3f274c5da326c860d0_1688453889.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2633__701a2415-6964-4726-be12-ff04a5206253_26c4d10397cefd907a0676725f08af55_1688453875.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2633__56745900-bf03-47b0-bfe1-a2a9ac40b1a5_06af7e6d0fb6d9acbfc03c355c35bd61_1688453876.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2633__54904245-2404-4c56-a85e-dbd98cd51019_4510c8caf614285d85efd49854eba128_1688453892.JPG"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": true,
+    "createdAt": 1708690353000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Agia Triada",
+    "complexGR": "Αγία Τριάδα",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 3091,
+    "code": "3268",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 75,
+    "plotArea": null,
+    "price": 500,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3___abbc0bcf-13d1-4262-b8d4-3324efc09820_DSC_9473-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___4439e7bd-4ba9-40fc-ae47-0aaf23535365_DSC_9480-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___d8b38666-daea-4c88-bba9-8eebc6c7ae5f_DSC_9487-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___abd3d310-ec71-44aa-b08a-5bbf6fb3b8e8_DSC_9445-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___02802c2d-c382-4638-8f7a-6ad851ff6466_DSC_9459-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___6fc674c5-bf4c-40c5-aafb-48871a159a7c_DSC_9494-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___0b1796c9-3a13-4bd9-92b4-dcde82dc43b2_DSC_9536-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___5ce50d5a-2d97-4b27-897b-ce5b644bc341_DSC_9501-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___38c562ef-797d-4d9b-b77e-2a0852352a6d_DSC_9522-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___1333f67e-2b03-424a-8aa1-784f8442dcfc_DSC_9508-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___1ac0bfe7-e8b6-4bbb-93fa-b40262a77a95_DSC_9515-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___e44331c4-8e2f-481b-95ff-74c9ec31cbb7_DSC_9466-HDR.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1723195903000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 2551,
+    "code": "3174",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 50,
+    "plotArea": null,
+    "price": 360,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3___97ab17a2-e88a-4f10-8877-86018216cfe5_20230801_192204-min.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___31eebd53-5dfd-4a19-83dc-3eb2a1ab71a3_20230801_192714-min.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___b031a756-0680-4aaa-b74c-0736deaef36b_20230804_162203-min.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___e01d7e80-0b23-4d45-93ad-9eade90eb102_20230804_163221-min.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___99a4a7ef-0d8c-4d30-a05f-d8de70ca88bf_20230804_162715-min.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___c05dfef9-4fa5-4933-8135-596daaad2b36_20230804_162818-min.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___ac58d6df-a1fe-4ea5-8af8-93c9a059a6ac_20230801_192100-min.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___10a01861-0a4b-4dc9-b283-e35f4bc2e73e_20230801_193001-min.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___869c654b-70d6-4b44-82fe-9f0e76d32018_P_20211205_151243_HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___a5d3cccc-5b9d-4f61-bb03-9e88277bc1d0_P_20211205_151458_HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___85030ac6-d954-401b-9f10-cb8ccdc0aca1_20230801_193022-min.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1719823283000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Magoula",
+    "complexGR": "Μαγούλα",
+    "cityEN": "Rio",
+    "cityGR": "Ρίο"
+  },
+  {
+    "id": 3496,
+    "code": "3488",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 40,
+    "plotArea": null,
+    "price": 300,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3_3488__0c752fd8-b833-4898-bf6f-264e21e5362b_DSC_8302-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3488__dd63032b-8a64-49ca-876d-4f14d49a69c9_DSC_8330-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3488__395960fb-3ff0-4cdc-9df0-5c2a60497d1f_DSC_8337-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3488__3b3c811d-234f-4630-87e4-fda1ccd13880_DSC_8323-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3488__66e7dcc6-a558-4888-82b5-97fe308f8661_DSC_8316-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3488__8528c16f-6b6b-4d0d-9cd2-c17336b8822a_DSC_8309-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3488__766b533c-f71e-47c3-9689-66e32f14dd4a_DSC_8344-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3488__990bb383-6cd6-414e-8a1b-b214c026a765_DSC_8295-HDR.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1738326273000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3627,
+    "code": "3575",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 93,
+    "plotArea": null,
+    "price": 450,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3575__24c1eb8d-69f1-4e32-8b13-9f17cf62a609_DSC_8129.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3575__09e3851f-4c7e-4d94-8863-16eeb78080ae_DSC_8123.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3575__98c555ba-41db-4b6c-b809-d0d979130e81_DSC_8121.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3575__da4a134a-4a45-41d4-b625-e2e0714c3ae3_DSC_8139.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3575__40f5ee97-1644-474f-8bfe-c261137e167b_DSC_8140.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3575__1a6e7647-1d2e-486f-aed0-bccae1a76b1f_DSC_8142.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3575__cc7893f9-fe74-4d6b-8950-24dce937aeca_DSC_8141.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3575__51bd4531-537a-43c0-a5e3-aec36fce7135_DSC_8126.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3575__bdb64301-2dd1-4a50-856a-72f0e29c3e5c_DSC_8120.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3575__e41419c0-a949-4fdf-96b6-f673f4bddee0_DSC_8119.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3575__d423999c-f9ab-4f96-9399-1dbd5b9c9952_DSC_8135.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3575__11698f44-a953-4c78-a6ff-dea35afaf7e0_DSC_8149.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3575__36115b31-211f-44c6-aac6-589ff461b8a5_DSC_8132.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3575__d639ae00-9d09-4081-a6fb-d9955cb37545_DSC_8136.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3575__a1640050-09e7-450d-a66b-41228a082d23_DSC_8138.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3575__74b4d716-bae8-47ee-97c3-c1982700cdf5_DSC_8147.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3575__16796cbc-f269-49fa-91dd-6122898019cd_DSC_8145.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3575__178b6f9d-0c43-40d0-bc9a-1dfced7ff37f_DSC_8144.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3575__c6e1a0ac-f09a-4016-b17f-4e44c36970b7_DSC_8148.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3575__60e188bc-4ce6-42ff-be5c-4fb06d75ce5a_DSC_8146.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1741608966000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 2204,
+    "code": "2921",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 34,
+    "plotArea": null,
+    "price": 230,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3_2921__37dcd7cf-fbe6-427b-9e8f-bd410e3bb5a9_58fb771fc4450119b250e80104b4d8f2_1702561903.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2921__7c1cc833-9fb4-4915-bfa2-5ae1ef8d69f0_60456264dc6514c4d2ee5ab62276879f_1702561898.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2921__c33b7e29-a427-47a3-922c-6f2834786773_cd0c9919d48c642125388f49fe210571_1702561905.JPG"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": true,
+    "createdAt": 1709027334000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Sinora",
+    "complexGR": "Σύνορα",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 3024,
+    "code": "2654",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 40,
+    "plotArea": null,
+    "price": 300,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3_2654__ca0391b6-1a74-4feb-a812-52aeea089611_d0b68ce4821c549b199f0f6814578e97_1689931129.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2654__891c747e-069a-485c-a612-21b380cd00e4_65f9527c259f3354e9c7357cce48a4b7_1689931127.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2654__2f4f2ace-8b45-4747-9079-a8564ddd7ae0_9d4ffcf3a8c16643f2a1a70eb6ac063d_1689931131.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2654__a4f720ac-5490-41e4-9a4f-cef64d6d3b86_c3f688e793f485c8d2b505b700167103_1689931133.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2654__e33c7f07-e22f-436a-a6df-5fd534d8e1cb_f7395c763ceff81995148e670c635d3f_1689931135.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2654__7ed0cbd7-78e2-452c-8b82-21f30eb8a9b9_6d5f9f665ac1e36573a65ced69a18187_1689931137.JPG"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1722587738000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3286,
+    "code": "3335",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 102,
+    "plotArea": null,
+    "price": 600,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__4c3ed196-b633-4faa-b259-f50cc008f64d_ALI_1724-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__0c126c88-12e5-4a57-bf92-fb0c091c4657_ALI_1728-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__1296e040-f616-49ec-82ad-743f9dbb2af2_ALI_1733-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__dd400048-a0fe-46e3-8ef8-c49e58072476_ALI_1738-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__ca241514-e82a-4e90-9f77-3dacc8a00c32_ALI_1763-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__10b2566c-c1a7-424f-bbca-31723b388a15_ALI_1743-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__a5226796-5758-41a2-9a17-c017b34ea9eb_ALI_1748-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__686f2b8a-27a2-4cd1-8dda-814aac864b15_ALI_1753-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__3fc68e1d-0367-4bd3-870a-7e5eb94bb503_ALI_1758-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__1e45bb14-f14c-4b66-9962-8d53cdf400f5_ALI_1818-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__e1a29123-4f07-4f55-8aa6-61c1d37b0a9f_ALI_1823-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__35fc4dd3-ac13-4333-a290-b8c1f6ace92d_ALI_1828-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__e3adca1e-e1dd-44df-af25-777bee996fde_ALI_1813-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__24ac6362-c3b6-4a1d-9146-914eb10f65ac_ALI_1768-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__ca9252d5-86ee-43f2-b329-8cc198cf0c68_ALI_1773-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__9d256a96-afb0-461e-8879-cc917a6359a0_ALI_1778-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__7915c4a1-b23c-493c-9e62-4c48bd81da88_ALI_1783-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__33597096-18ae-4210-b313-957ecf4e1056_ALI_1788-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__fcc8c8b1-b96b-4409-9f28-c2e26b52ee38_ALI_1798-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__39a6ccd4-fbbd-420a-94bd-4beb160f4b3e_ALI_1793-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__a51feee2-78cf-4c0a-b123-616cc4227b87_ALI_1803-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2393__2fe2cc97-78ff-4c0b-93cd-6e14c41dadb5_ALI_1808-HDR.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1728297345000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Patra Centre",
+    "complexGR": "Πάτρα Κέντρο",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 3553,
+    "code": "3532",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 54,
+    "plotArea": null,
+    "price": 480,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_2683__6c8aacef-6a58-443b-a82a-eadfd33c059c_DSC_5412-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_2683__49db0705-f14c-4cb6-9c41-8cbfac21a931_DSC_5426-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_2683__df7eb072-8903-47fc-9416-06dc2a481678_DSC_5398-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_2683__31de9374-12bf-4ba7-9822-ae228fb765d7_DSC_5419-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_2683__20abeb44-0ace-452d-a92f-f1f076fd9f9c_DSC_5433-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_2683__7d5b1a98-83fe-4ce7-b6cb-5a4d5ad95087_DSC_5405-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_2683__ebaa4096-b847-4d6f-a39d-6d70f595ab81_DSC_5440-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_2683__859c15ab-9cea-42a5-aee5-e5873668cce0_DSC_5447-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_2683__b9d77b07-b553-4bd0-b78b-cbfa1af10cb9_DSC_5454-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_2683__ab59b513-ce12-44cc-8829-2af6c918f529_DSC_5377-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_2683__68988eb5-b96c-4bee-905a-e128f2e3c792_DSC_5370-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_2683__174da322-c58c-4d41-9b00-03cb3e8634f5_DSC_5384-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_2683__6f492787-b53b-4cb6-a141-62947baac4a1_DSC_5463.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_2683__44093a83-2bc1-4668-ae4b-1efdd21c2517_DSC_5462.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_2683__8b9661d6-6c4c-4096-9f32-e7d4e30242c4_DSC_5461.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": true,
+    "createdAt": 1739541147000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3593,
+    "code": "3548",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 90,
+    "plotArea": null,
+    "price": 580,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3548__8d4d34fd-4a4f-4bb2-845d-da2ba92ef2cb_DSC_5653.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3548__3b1bf3ee-d957-4943-97ce-0f9bbb67950f_DSC_5654.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3548__54b78d51-7ade-4f53-965a-3de79b4e4850_DSC_5650.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3548__2d16b312-d374-46a0-a17d-617085d9bb80_DSC_5651.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3548__7ba4bc3a-279b-479b-b41b-4bb0ef1e2159_DSC_5658.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3548__479d4564-cc58-4eae-aa71-21a1e5b3f62e_DSC_5647.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3548__d76ef562-47e9-4014-b39f-eb02df475626_DSC_5645.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3548__a7b1c963-854f-4853-bccf-ea7688e0cfce_DSC_5642.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3548__2f472e47-717c-4eac-976c-0e99047fc36d_DSC_5660.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3548__106b27e9-a05d-449a-b85c-6dfeb05f5350_DSC_5640.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3548__050f600c-821a-443b-a01b-cbe018c0975f_DSC_5648.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3548__7a77e790-4638-473c-829c-5e1ca26d1f9e_DSC_5649.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3548__be60bf88-9db6-4905-b727-4f28e354eaa0_DSC_5662.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1740146364000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3314,
+    "code": "3356",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 75,
+    "plotArea": null,
+    "price": 550,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3_3356__a7b90648-70b5-4259-8e5d-32ded5d94ae8_DSC_3565-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3356__57cfe1b6-4132-4ce6-be65-832eafface92_DSC_3544-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3356__df784f80-d402-4757-8d14-9d079af5be22_DSC_3642-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3356__03105dd0-e564-4103-83eb-eccb830d55ce_DSC_3621-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3356__1448a63a-095b-4e04-b90a-7ad1e18a7c23_DSC_3635-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3356__adb1bbaf-bc99-4d6a-8420-190af77aaa78_DSC_3586-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3356__221ff97a-b3c9-4e46-ac13-3adba28f72f1_DSC_3607-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3356__6959fe13-937b-45f3-b6c1-4af8f15f5451_DSC_3600-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3356__8d726f37-3a69-445d-b632-bbb4b5e09585_DSC_3579-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3356__dbb126a9-68d1-41fc-a9bb-eb4b2bccffb2_DSC_3614-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3356__4629f0c1-d8ba-46f1-95a8-d897c211bac6_DSC_3578-HDR.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1730468609000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Patra Centre",
+    "complexGR": "Πάτρα Κέντρο",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 3442,
+    "code": "3438",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 33,
+    "plotArea": null,
+    "price": 400,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3___b62f5037-416f-4f59-a455-cd1a9c0def52_DSC_6534.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___02e0cdd0-b6d2-4278-941f-ea3f2cb50fbd_DSC_6529.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___58677047-522f-4046-927f-6437747ef688_DSC_6532.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___40783849-b507-4d5f-ba78-b9800212fb6f_DSC_6531.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___2e3488f5-2244-4bc7-8182-07c4544de513_DSC_6533.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___d9bb8aff-ef11-44fe-a80c-8a430abfffb9_DSC_6527.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1737367833000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Agios Alexios",
+    "complexGR": "Άγιος Αλέξιος",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 2202,
+    "code": "2700",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 30,
+    "plotArea": null,
+    "price": 250,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3_2700__a544b58b-701a-406a-97b1-8d516b6c1016_6c63fefbd1258093ac4c729c21178b46_1691498054.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2700__628b0703-e512-41d6-b494-c99d3b787a9a_b4c69121dfe8fc37c06911dc7f0806c7_1691498060.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2700__02a1c33b-69ae-429b-8d1b-6741d3eb5ad4_2b9dd012c528258fa24c569f9f66b15a_1691498064.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2700__4f7058d9-76c8-4a0f-b7c3-05fa24798817_691f3a1d8a54513d61f17dfbe0265d5d_1691498056.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2700__33508991-db39-4925-8ee9-b998c3338c58_ba412b2e9b46d5e4b7588aa196fd147b_1691498062.JPG",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2700__331e3263-2ec6-404a-a5ad-9e83cd96719e_46c78afddc9be46a44197c7d87e68d31_1691498058.JPG"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": true,
+    "createdAt": 1709026916000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Ergatikes Katoikies",
+    "complexGR": "Εργατικές Κατοικίες",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 3415,
+    "code": "3423",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 42,
+    "plotArea": null,
+    "price": 340,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3___76cd7aee-1d3b-46ba-95a7-fd708927671b_DSC_6499-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___a34c2418-d345-4418-9890-a94d5b4594a8_DSC_6492-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___6bd42c60-d49f-44d5-9ba2-a7b5b623a860_DSC_6463-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___60070d8e-a442-44f4-aacf-8007ec8e3c50_DSC_6470-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___9fa53e2a-9a22-40ca-8884-ac14ae72ae9a_DSC_6456-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___a595d16e-f0a5-4277-8976-07021c2c2292_DSC_6520-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___344067b9-3def-45ca-bcc8-483e33b57bc4_DSC_6513-HDR.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1736250950000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3289,
+    "code": "3338",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 58,
+    "plotArea": null,
+    "price": 400,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3___85bd86db-253e-4615-b35f-b50088b99a03_DSC_3294-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___583c8aaf-9822-4fce-a509-174ecd656049_DSC_3274-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___3927f97b-bceb-41b5-9bdd-e3a5cabfaab8_DSC_3253.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___7c0b366f-e268-4de4-81e4-93b399eaad63_DSC_3260-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___6721b3d5-f31c-45ba-a310-623e9246b7ce_DSC_3302-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___5eec969d-09f6-4da7-b8aa-285044e87f3e_DSC_3295-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___a705e6a6-5258-4f77-b4dc-fe5c4db97a01_DSC_3267-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___e291abe0-cbe5-4f99-abf2-1f43d420b41d_DSC_3309.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___2287416b-6e9c-4511-817d-19a5b61c1ef5_DSC_3246-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___2487c7fa-1115-4309-87f2-65c985a1ab9e_DSC_3310.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___7bf91543-31fd-494c-97af-4fcb45b08df0_DSC_3239-HDR.jpg"
+    ],
+    "bathrooms": null,
+    "bedrooms": null,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1729160883000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Agios Dionysios",
+    "complexGR": "Άγιος Διονύσιος",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 3626,
+    "code": "3574",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 28,
+    "plotArea": null,
+    "price": 350,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3574__dbaf51fd-4df2-4c70-8885-06e6326413a1_DSC_8079.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3574__108d0c3c-602c-4817-ada4-8971476a1ac2_DSC_8084.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3574__a467af30-72c6-453b-bdbc-e39bba8bed6d_DSC_8081.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3574__9f783e7a-4889-4d2a-9836-498fc180a6c6_DSC_8082.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3574__b41e71c1-20c6-412e-b2d0-d8c0301ccd4b_DSC_8083.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3574__2159cd4e-196c-47a5-a08c-3dfa613e68f2_DSC_8085.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3574__f9e0b034-e604-41bf-bd7d-da2b9c45e52d_DSC_8080.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3574__8cb26b18-30cf-45dc-8c30-1de7189ab127_DSC_8078.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3574__87ca5abb-30b3-410a-bed7-36808d244274_DSC_8077.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1741608600000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3672,
+    "code": "3607",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 27,
+    "plotArea": null,
+    "price": 290,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3___fb74fbed-d5fd-4be2-9798-dee5fe3033ce_J04A2836-Enhanced-NR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3___02852f5b-a4a6-4f8d-9724-c134b12d7957_J04A2833-Enhanced-NR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3___55322532-4593-49e0-be86-f2be837419b7_J04A2834.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3___e9fc90d5-913c-4d38-bc2a-e31f3a74b198_J04A2829-Enhanced-NR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3___7348d18a-ce3e-4a99-9826-298d3e0b1b62_J04A2838-Enhanced-NR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3___de9d59a1-df28-4e5c-8891-e7ab1ede92cf_J04A2839-Enhanced-NR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3___ee826e0b-fd7b-41d9-824f-9fdc066d8462_J04A2844-Enhanced-NR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3___08e9dc46-f3f1-4ffe-b08b-a32ba62277d4_J04A2847-Enhanced-NR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3___34e0fe00-69a7-4711-938a-434cf5754b4a_J04A2820.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3___18fbb7e2-c98f-432a-8798-054a9e8f8689_J04A2824.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3___99b1580d-533e-4956-a222-e0c4beab56d9_J04A2826.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1742973911000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3283,
+    "code": "3332",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 43,
+    "plotArea": null,
+    "price": 450,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3___f9f34f65-cc26-4ed9-b7c9-ac47021488ee_DSC_2826-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3332__4b887d7e-086d-4b62-90e8-d7bf0aa52038_DSC_2833-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3332__76719bdb-6af5-4a0f-a51c-481c880442f4_DSC_2840-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3332__d0ccd593-c23e-4269-b5d1-6d42246367e4_DSC_2861-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3332__93358c4c-e5f9-4721-afb4-02eacd992e3a_DSC_2868-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___fcfc873e-5fad-4ac4-a8b8-2f6a80059edb_DSC_2854-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___06a58639-1988-439a-a7d5-dbe1a763edc2_DSC_2847-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___dba142ac-3455-47f6-bee1-b7d80b7ce62d_DSC_2910-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3332__d7d68638-c060-482d-bbcc-8b6320284463_DSC_2889-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___1420567c-8b66-49f5-be81-94fc9b5eb7e5_DSC_2882-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___e6519ac2-a237-4739-a37a-ea672507ea1c_DSC_2896-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___2ea79ad7-9ff8-4b4f-b366-bcd57d1af49b_DSC_2819-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___87d3d5c7-b5c9-41ae-8030-8ae7a8402800_DSC_2917-HDR.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": true,
+    "createdAt": 1727939483000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Agios Dionysios",
+    "complexGR": "Άγιος Διονύσιος",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 3629,
+    "code": "3577",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 36,
+    "plotArea": null,
+    "price": 550,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3577__6160779b-74e8-4777-a61c-bebf0f04bad1_DSC_8114.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3577__5b193288-27d5-4916-856b-f1ee8e5101a1_DSC_8113.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3577__d68f2d41-d13b-4aa4-b925-3c8bb19fa8f9_DSC_8112.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3577__6a8226f8-b736-42ae-afb7-9b2fc351af46_DSC_8116.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3577__e11a43fd-582c-45d3-a692-184856b43307_DSC_8105.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3577__a8f60fd5-3800-4ed8-b778-f3686bbfdd63_DSC_8106.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3577__8339cae3-6b6b-474c-bf9a-284f8c8d92f9_DSC_8107.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3577__84c4be46-e165-4522-9810-ecea77785422_DSC_8110.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3577__c767654f-643c-4cf1-a27e-fb7d008e1e92_DSC_8109.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3577__d25b0a1f-5dc2-4b9f-a049-3767e31293c9_DSC_8103.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1741680526000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3625,
+    "code": "3573",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 36,
+    "plotArea": null,
+    "price": 350,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3573__27f9147e-3cd4-4071-9d1a-c41533849fc7_DSC_8164.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3573__a8b0403c-4aa8-4a0d-b0d7-7580dc865ce8_DSC_8162.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3573__cebe971d-3411-4386-9696-c760b602ec19_DSC_8158.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3573__ba1332e8-6928-430c-9a65-d22e5f706590_DSC_8161.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3573__ce88bb51-01cf-419e-ac62-8ab2b49e0aef_DSC_8166.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3573__62a74e32-3b00-4001-a047-5268385ac18e_DSC_8160.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3573__73077c96-a143-471a-97e7-a9488de67f4f_DSC_8152.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3573__5e51e2c0-921c-4943-b3d4-8e4f62879731_DSC_8153.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3573__74c6bc4b-517c-4343-961c-36b3eb5b0594_DSC_8155.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3573__d5800cbf-46c0-4988-8322-4e7496e41299_DSC_8154.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3573__7e01ae0a-f9a6-48e4-b862-06c2a552412b_DSC_8157.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3573__3357e8cb-a7f1-4e2d-a804-051193db11e9_DSC_8165.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3573__91f9ffff-1856-4593-aba3-2727d6432ca3_DSC_8150.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3573__9536ce55-76c2-4a10-9f9f-0355733f4d8a_DSC_8167.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1741608335000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 2481,
+    "code": "3121",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 87,
+    "plotArea": null,
+    "price": 530,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3___cddce720-bd48-4ad8-87c4-95a44df8fe92_DSC_7487-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___57f70899-5c3c-4c9b-a63f-d85142d6e892_DSC_7501-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___432b5448-1cef-49ca-b439-250b04b6da62_DSC_7494-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___8802ae95-be14-42c0-8bf2-d6e7370d2f46_DSC_7473-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___2f86e79f-bd62-4774-b7aa-26958f65a17a_DSC_7557-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___1371f427-64eb-4052-bdee-b26498f03d84_DSC_7508-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___31d2ee68-9343-4a2b-ab64-b058d81fd0d5_DSC_7515-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___305df6d7-90a7-44da-997e-60f5a1fc9925_DSC_7536-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___f0fb1d33-66c5-42ce-b1cd-0907b933e317_DSC_7543-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___3e2af9d6-be3b-4ea9-92bf-040bf4525e0e_DSC_7522-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___ba2f3011-31d0-4639-b762-d35d74e3b9a4_DSC_7529-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___b75f1426-02f9-45fe-a815-90984ed9f467_DSC_7550-HDR.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": true,
+    "createdAt": 1716979086000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Agios Alexios",
+    "complexGR": "Άγιος Αλέξιος",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 3640,
+    "code": "3587",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 85,
+    "plotArea": null,
+    "price": 400,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__b87de03f-4dad-4339-9a13-25bf41129ad7_DSC_8238.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__b89d5d6b-1729-425e-9dba-93dd6bb45043_DSC_8236.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__5518c1cb-34a5-4806-8aac-4c12dc8aea65_DSC_8237.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__6b66ed6b-9b5d-48d8-abd6-70ab989a7d82_DSC_8239.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__87c65c54-3c8b-44b4-a4e4-f9f24f399bf2_DSC_8244.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__d5bf48cc-3fa6-47c1-adc3-8d024a3370d7_DSC_8245.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__7ef225a4-4a1c-49a2-9f1b-bfe0921824cb_DSC_8247.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__e2cbdc8b-76c8-4117-a59f-9b374971a653_DSC_8248.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__83948cc1-b652-4820-8065-734e52edb2ea_DSC_8252.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__3e23d8dd-0108-4d10-bb88-60b143044b95_DSC_8251.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__71bff520-15a6-4ec7-9550-383a15d0b2db_DSC_8253.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__4d9fdaa7-bbd0-4c43-a096-2bd8529eeb8a_DSC_8254.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__0c2ae228-2d7f-4da8-9034-b6105fa1fe8f_DSC_8255.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__4f359d07-8b91-4e3f-8a17-47c79d23d308_DSC_8256.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__d8b1e145-a0c7-465c-bcee-3dff4a3a3e10_DSC_8257.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__44a8adf1-6d35-4f3b-a57a-fda3e21dd8b6_DSC_8258.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__ccce7acf-3c97-4b0c-8da3-21c3a3bdce94_DSC_8259.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__92bdefe9-1f5a-4a2f-8514-3c0a4a037332_DSC_8260.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__6c84d86e-e03e-450f-a50b-59e4825635ab_DSC_8241.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__6a54f57a-45da-4269-acdb-1bb1bc7eb525_DSC_8242.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__d9dd29f0-25c9-4df1-bf64-c743226bc218_DSC_8243.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3587__ba03525f-e75e-4764-9d44-c0751326902c_DSC_8249.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1741856342000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3639,
+    "code": "3585",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 42,
+    "plotArea": null,
+    "price": 400,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3585__899796fa-d4ad-426c-84e3-48511150ff27_DSC_8225.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3585__9c73ab1d-4bf3-4dab-8aff-fe01e6ed849b_DSC_8224.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3585__96fbae52-cb48-4994-b2de-58474ba34ea4_DSC_8227.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3585__c6c06580-d7c2-403f-b6dc-55ba0762785b_DSC_8228.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3585__371160fd-61ee-4b27-9668-7f39dd768c2e_DSC_8232.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3585__2345f480-7a1a-45c1-b8b3-e0714367ee28_DSC_8233.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3585__2711971b-b5ce-4e93-9e8a-3b9612342f8d_DSC_8235.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3585__a02e2bb2-6a03-49fd-a3d2-3dfcca9d437b_DSC_8222.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3585__7b2d9265-8959-43ae-b302-9755c8640654_DSC_8229.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1741854752000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3729,
+    "code": "3647",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 49,
+    "plotArea": null,
+    "price": 470,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3647__3f0fa385-a321-43d0-bec2-7588bc944986_DSC_1598-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3647__ac3a4397-63da-4ace-97cc-8ec0f9ff1df6_DSC_1612-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3647__03645d8c-7b12-4986-8330-f0f5e63bda3e_DSC_1626-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3647__e7fb3393-7d03-4e5f-adf7-3a00d84d0715_DSC_1591-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3647__14d6d0a9-681e-4e7b-872a-e07145b4dbc9_DSC_1577-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3647__1c638b41-a7e0-4ff5-b9b8-db405dec9f53_DSC_1584-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3647__8baf4224-2306-4c4c-b5e5-55ca76f166a7_DSC_1549-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3647__d67cae13-e0db-49b5-9545-e977efe2972e_DSC_1514-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3647__47843780-fab6-4b2c-a30b-4ff573d05414_DSC_1507-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3647__bdabc567-31bf-49ce-abf7-517e6bc35db9_DSC_1570-HDR.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1744636388000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3344,
+    "code": "3380",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 35,
+    "plotArea": null,
+    "price": 340,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3___380ef2b4-3fdb-4428-a052-43b528db5d6e_DSC_4910-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___697bd365-e81b-42c3-8d92-61c8ed0e2e46_DSC_4917-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___c6956513-efd8-48de-9785-aac123feca5c_DSC_4945-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___32fb3c75-3f45-47f9-8f32-40800fc0a6f2_DSC_4931-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___dc6448d8-f800-4116-ae2b-7b3f01dff1e9_DSC_4952-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___27dfe098-a6a6-4ad7-b239-aa7f602a4eb3_DSC_4896-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___5f85d595-c239-409b-85ea-f2d7bb4e712d_DSC_4903-HDR.jpg"
+    ],
+    "bathrooms": null,
+    "bedrooms": null,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1732184293000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Proastio",
+    "complexGR": "Προάστιο",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 3445,
+    "code": "3440",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 75,
+    "plotArea": null,
+    "price": 580,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3___51d82a20-7cae-4269-9951-85c43c7b2184_DSC_6559.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___86fc551e-bd02-48bf-9ecb-b64a478683fb_DSC_6554.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___9504220b-dd6e-43a9-8bec-3a120aad4f41_DSC_6539.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___c5353f5a-6eda-4597-90b8-b3e067500a57_DSC_6552.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___78243479-3e6a-4be2-a3d6-59830a53d713_DSC_6551.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___ddeb13b7-a2f3-4667-9e4a-dccf8f49271c_DSC_6536.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___0e858d1a-dc28-437f-8c1d-4e7c923105c7_DSC_6537.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___c6829ddd-7d8a-43c9-8103-283bafc77a4f_DSC_6538.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___8acb8426-47f4-4ae5-a1e4-9caa09bef44a_DSC_6549.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___a9f5e0a3-a9f2-4b38-be25-f0f80882529e_DSC_6545.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___9cdb7cd7-8642-4934-a946-9ced6e4d226e_DSC_6547.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___d1bd51d8-0a40-4c16-b3e7-6cec49a0b476_DSC_6543.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1737375340000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Ipsila Alonia",
+    "complexGR": "Υψηλά Αλώνια",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 3745,
+    "code": "3658",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 35,
+    "plotArea": null,
+    "price": 300,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3658__6622ebd5-945e-41de-af2f-619b99e9442e_DSC_2044.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3658__51f46def-1c1f-4cdf-b06c-92d89f2f3263_DSC_2045.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3658__7091f4d2-d73b-4d15-87a7-f45d86a2eebf_DSC_2043.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3658__11f2e222-9da2-429a-826b-6de2c0233607_DSC_2039.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3658__63e7a700-ccfd-41af-8979-7b6060090613_DSC_2038.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3658__62b1eb47-1322-4508-a2d2-b4343c69fb44_DSC_2048.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3658__29b2f89a-bc79-4541-b136-559b2b7a55ed_DSC_2042.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1745584657000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3705,
+    "code": "3629",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 38,
+    "plotArea": null,
+    "price": 550,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3629__7b2c153e-b8b1-4373-9cd6-fb4e17ef71c8_DSC_9125.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3629__30af9a7c-aec6-422f-8a1d-19c149fa24a4_DSC_9131.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3629__9308a49d-fbcc-4b74-9c38-91d0c209be5a_DSC_9132.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3629__d9978af6-c73c-4607-aa2e-41a39a563a34_DSC_9133.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3629__6197da4a-c5fc-4866-86be-bc7c4ee3dfe8_DSC_9134.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3629__3a2599da-1b93-47db-9882-5e2b0fa5aebf_DSC_9135.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3629__94afe383-5309-45d3-95bd-8ac59916a75f_DSC_9137.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3629__6220e548-f99c-46a4-af2e-6ee72455a6c5_DSC_9138.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3629__cef8476e-9273-442d-8d8e-023fce465eb0_DSC_9123.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3629__a66a52f0-a3eb-4775-a784-f5e2c8400723_DSC_9128.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3629__9999ecc9-2ae5-43ab-8774-5151cfb994fb_DSC_9129.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1744017381000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 2597,
+    "code": "3178",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 30,
+    "plotArea": null,
+    "price": 340,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3___229d7089-0535-484c-9584-06d2416fe4ee_DSC_3263-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___02385d03-d734-45c8-9267-bee9274d0a30_DSC_3242-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___e0cd3cde-5e3d-448b-8108-aebb6a4646ad_DSC_3270-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___62f36420-a7a6-4220-8749-5bcf94793884_DSC_3241-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___e7c260a5-c260-4932-a674-6cc9d45dc456_DSC_3249-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___b26de52a-0d82-465f-843a-07a4681c1b0e_DSC_3228-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___5e1e003e-6493-463d-9cc1-75480b5d874f_DSC_3256-HDR.jpg"
+    ],
+    "bathrooms": null,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": true,
+    "createdAt": 1720087683000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Agios Andreas",
+    "complexGR": "Άγιος Ανδρέας",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 2190,
+    "code": "2689",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 60,
+    "plotArea": null,
+    "price": 600,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3___8778606a-0b34-4d34-8d49-3982f344e544_a92679bcb5673a07ebe5834389d653ee_1691225910.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___30070a18-9267-4454-a598-f1451c994c91_44aa83fd54026393038b4f2711a69dc2_1691225906.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___3b6a6def-da9c-4157-9d49-526528f143b2_7fb113ff85589ea5dd300874fae191bb_1691225910.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___d0c49460-5e40-44b3-87bb-8dca2eef23d5_b242e077795d54666f303654c26d7044_1691225909.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___0803d0d3-8b11-4bd8-820d-4895650bd14f_ca6c2980edd82f1b50b3078ee6ad2d31_1691225906.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___a6c7731b-3c36-4fbf-991b-7bbe6a2b76f0_a084337901ece0fcca4751a77cd4afbc_1691225908.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___df0562cc-7dc1-47f9-a192-753f4ce74b3a_5cf3b0813094dfd1c6b90b8217f64f4d_1691225907.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___d313b707-fb03-49b0-b0a0-a315307f618a_cad6c3ec3d7aeb61f01dfb1c70ad74a9_1691225908.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": true,
+    "createdAt": 1709021225000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Terpsithea",
+    "complexGR": "Τερψιθέα (Πελεκάνος)",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 3706,
+    "code": "3630",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 60,
+    "plotArea": null,
+    "price": 500,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3630__5218dc60-fe45-4f63-8de6-896d77f366b6_DSC_0687-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3630__ff41fcf8-0fd1-4957-b0c1-644598a9af0a_DSC_0694-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3630__3323026b-0fe1-45ab-a772-b1a2ee3004a9_DSC_0701-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3630__7e5e0054-f7aa-4ed0-aa57-da18a989f23d_DSC_0659-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3630__eb473862-c67e-4530-824e-74be1b3aa3ae_DSC_0673-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3630__b041c300-f764-42a2-a774-e69c116236ee_DSC_0631-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3630__c3e2d877-ee6f-47ea-80bc-ed3d1227ea76_DSC_0638-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3630__961a1d4d-a705-4e60-9565-59261cd3da38_DSC_0645-HDR.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3630__03a37945-8128-42ca-9877-96ad991fa8dc_DSC_0680-HDR.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1744018297000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 2615,
+    "code": "3194",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 50,
+    "plotArea": null,
+    "price": 600,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3___373c7e20-2dfc-4e5b-8067-8d46cd1f6b5f_DSC_5154-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___ff2f2d2e-76d7-497e-a4f6-d284daf9aaaf_DSC_5161-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___39c655c9-d4e0-474e-b7e2-304a4c305a8a_DSC_5189-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___21a0e283-49c0-4363-b0a5-004fbb9b155f_DSC_5202-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___dd8f2e33-fe95-4180-a8e6-2fcd8ad9a0d8_DSC_5175-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___db741add-463a-44ce-a59e-8089656a61da_DSC_5182-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___5d94ee61-a9ea-4c91-88fd-3e5686eee029_DSC_5174-HDR.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1720682706000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3485,
+    "code": "3477",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 100,
+    "plotArea": null,
+    "price": 460,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3_3477__b0651a9f-a604-4a10-a9d7-6c122d3ed7f5_DSC_0834-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3477__78162dfa-bb58-4187-a87f-5ba94f3e03d7_DSC_0785-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3477__9d8381ac-fff0-4f7e-bb46-5554b064eb86_DSC_0827-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3477__f3a41a40-f99f-4758-a9db-0d5dd2638d75_DSC_0841-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3477__a46772a4-938a-46bf-a313-9453ae2c9a6f_DSC_0869-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3477__6493e545-3ac0-4f59-b932-3a52c954b031_DSC_0876-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3477__c16dad50-b1ae-45df-82f8-8cc9eda549c0_DSC_0848-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3477__8d08dc70-f4f6-46e8-b0e8-cecc49567784_DSC_0862-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3477__5eca5450-eb28-46d7-aac5-b46c0cfecc34_DSC_0890-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3477__17adf914-a998-4ee2-b7cb-40d7c4068acf_DSC_0855-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3477__fbfc07d9-f86c-498d-8870-eb5e0a885af5_DSC_0778-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3477__3cc6b152-d124-4a1f-bb4e-3f170fc418a2_DSC_0799-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3477__9736cfcf-a1ee-4b95-9e45-714e11cfa568_DSC_0806-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3477__41bd26f7-a140-4368-b5a4-2ba65c22b8cf_DSC_0813-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3477__decd4c3a-fb27-4aef-9ddd-4306e7eba7cd_DSC_0792-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3477__fd95722f-9359-44d8-b2cb-48c861af7fc5_DSC_0820-HDR.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1738241582000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3594,
+    "code": "3544",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 26,
+    "plotArea": null,
+    "price": 300,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3544__f4358a2e-3c23-4e73-8b17-7b1c8dc0b0d5_45e6982c0d42b503886cfb85caa33ab3_1739975551.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3544__27ac8e78-1f13-43a8-9345-6b10e53b6140_65c5c7dde250d0defbe07b3fd77a0bc0_1739975549.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3544__36b1f081-f17d-46ae-aef5-9459bd1b4475_94bb3212f65348d025047d898db400cd_1739975546.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3544__bf96ac1f-0c03-41b1-961f-59e9c481c8d2_69d200809b5f2151613c1c34273d6e13_1739975543.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3544__b04a7a91-c368-450c-af50-02524a6773de_ba0bf8b6b7e5a1ca1e37bd0735951e14_1739975539.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3544__446d2428-bb85-4cb8-bc66-764e4f9b2ee6_de69a38924ca0f0af7155040a48e5aab_1739975541.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3544__7dc4619a-bfb1-4c6f-b18a-b88bb2fab077_d1bdfd096187e6719b2f4d1c0fdd4819_1739975536.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1740387492000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3590,
+    "code": "3546",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 85,
+    "plotArea": null,
+    "price": 450,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3546__373c161b-22e9-48c4-89dd-a18c721f4164_DSC_5573.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3546__d3a06475-492b-4287-a3cb-109127955f2d_DSC_5575.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3546__e45a49c2-f446-4120-8f4f-d9e0759b3b20_DSC_5582.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3546__7ad75434-b8b3-4ac5-89ae-3a3712476de3_DSC_5581.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3546__c028793e-1fa2-4888-a186-f56677cda9ea_DSC_5595.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3546__71adeb83-6443-43a4-9e4d-23db28d010af_DSC_5589.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3546__62b9804b-ed41-4291-9088-187a14d6db63_DSC_5594.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3546__7f23d2f8-e6ee-4e03-84b6-5fe955b934ff_DSC_5591.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3546__594db761-3461-40a8-9b84-13f18bdc0439_DSC_5586.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3546__a143e1da-c397-4da1-9237-b591a8df8ab8_DSC_5583.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3546__eee76151-f44d-48d7-80ad-831af3d969dc_DSC_5585.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3546__9a31b8db-aa89-4d55-a505-cd2b450008e3_DSC_5578.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3546__8d308e5e-c101-4193-b0c6-9616f41c4ccf_DSC_5577.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3546__e440af65-ce11-4ff7-9f4f-c957f78b2d2f_DSC_5593.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3546__1cef189a-0284-4289-abf9-933ede2d8cde_DSC_5576.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1740145777000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3587,
+    "code": "3540",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 53,
+    "plotArea": null,
+    "price": 450,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3540__1f7c11be-e894-49ec-99b5-8ab3459a6be4_DSC_5489.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3540__26d3281f-0515-481e-bab1-bf5deb5e910e_DSC_5490.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3540__f9e0f3d0-9192-441c-8535-b7b3ed9d63eb_DSC_5487.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3540__0d2d89f4-7f17-4702-a6c7-71a77bc24f4e_DSC_5491.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3540__99e06733-5ea2-4543-8ac5-82dccad8c642_DSC_5488.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3540__420a42dd-6cba-400b-ad7b-206e31b8f709_DSC_5501.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3540__24a5cbef-f72b-4d19-9569-17377c8d51ad_DSC_5492.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3540__1b5bfae7-6c7d-40bb-bd62-d40f1249edf8_DSC_5493.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3540__da76840e-264f-445d-9e05-5bd88dcdad01_DSC_5494.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3540__70e12392-8e7d-4a1e-bc40-7e7ac87e141f_DSC_5496.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3540__827eb989-7415-4787-9f39-bb39ebee975e_DSC_5497.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3540__7d8e9111-6125-4c80-84fc-0b6d80409d04_DSC_5498.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3540__3329b8dd-0f99-40b9-bd2c-bccc571e16aa_DSC_5495.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1740144960000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 2214,
+    "code": "3024",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 95,
+    "plotArea": null,
+    "price": 600,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3_3024__17acbe51-0ced-4ec1-9c1e-6869eb41aa01_dcd50d3e86b0d1a88dd7d7cb84e7fa8e_1709304704.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3024__5d39b339-a5fc-45c3-b46c-f7ad4f6d8f0e_f55a74d3ee90a6b3f30bb2864eac52d7_1709304707.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3024__eaa3a8b2-bc55-48b3-ac12-a4ed4b1152d9_30e63574b3bdeb620c67177af5c58fdb_1709304709.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3024__e2b516c9-7b8b-4fc6-a2d8-b98bc0ad0a8c_a16e5c45736af825e5c65840b4dfd8b6_1709304712.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3024__9b231b70-585b-4645-be8b-2cc5808f6319_8ae95d15a6cf71fc05d8fba7a8e65b44_1709304714.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3024__2e9347d4-f207-4bce-8f30-ba0e4e22e027_2335849382dd338d7d4f7cc4b63e55b8_1709304716.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3024__bcb0d2cc-e0e8-407c-ad75-7094d44e7cba_2a0494f872ea8d3ced3c18949f820fc4_1709304718.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3024__d49b16f2-0af4-4530-b818-b72c80d975e5_92d5d29fc84cc68c6fc8f85496ff1301_1709304720.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3024__a0959190-8170-48b9-b216-d9a341cb46c7_cc8cc6f8426389485b0b3af57c0d8e58_1709304724.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3024__49030d3d-d584-4c9d-9dd2-3f0c3f418786_f5cf2a3a3779e595069dfd4d3d706f61_1709304726.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3024__df084e29-4e2d-442d-9c67-e587c2f5134c_4836badb5fd856919a7dd38667627f91_1709304729.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3024__46358db2-ffd0-4131-a1e5-cb8ba257b097_6f8776638ca2f363ff6604aeec2bd36e_1709304731.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3024__5924762a-8537-4dfe-ac03-535fc523c98b_abcc9d1bb6caa0be4ab6730319fa019a_1709304733.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3024__46d3db26-b7c6-4b8f-a154-fd64701d77d7_4007c8198880d3704cd8f84fe3c74404_1709304736.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3024__94330cd2-bf7e-4536-8442-8ca2c0ca4968_b7484bab7e6f8c33f780add49f13abef_1709304738.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3024__0cfcb73c-93b4-49a3-b1a5-f73345434ca3_575ddfdd847b39ced3663197ea6ca041_1709304740.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3024__afce3227-9f58-404d-9a38-f53fab65f6dc_9b299cd6525ac9f77b329a81cb62f69c_1709304741.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3024__8325e86e-f33c-465e-a7d1-bc1a2db05117_4df5745773b57dd1309f080846f52510_1709304744.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3024__f369340e-cc66-4a8f-8aba-125dffa79a29_e5f7d7c11cac96106c4ef0019791e7e8_1709304747.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": true,
+    "createdAt": 1709638042000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Trion Navarchon",
+    "complexGR": "Τριών Ναυάρχων",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 3701,
+    "code": "3621",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 30,
+    "plotArea": null,
+    "price": 420,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3621__7bcbd8a1-0991-4249-abab-0c5837b8eab0_DSC_2284.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3621__4af0d2c2-f696-4fb7-b21f-14597be05d0c_DSC_2288.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3621__bff6af83-d7ac-4394-9c61-12ff820d90b0_DSC_2289.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3621__1351cdef-88c8-46f4-b7ba-6839628456fa_DSC_2283.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3621__3cb4fbbc-96d7-44bb-a667-ced7ba96f3b8_DSC_2282.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3621__97332ddf-3bc4-42fa-9e89-6eef8568f87a_DSC_2275.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3621__72ce47e7-481c-4dcc-adce-9c0614b26df0_DSC_2277.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3621__99a75480-96f9-4e24-bf28-cc1132210ddb_DSC_2276.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3621__e45cf798-9651-4092-b468-abf17038b245_DSC_2285.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3621__8dc162aa-cfb1-4b56-b619-93ceb929c303_DSC_2278.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3621__faf26384-389e-4f45-b948-d5ebe86209fa_DSC_2279.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1743762688000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 2939,
+    "code": "3246",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 65,
+    "plotArea": null,
+    "price": 600,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3_3107__b0951ca8-be44-4809-8d08-81660dbf8340_b73bc7e7f18481ee3b26eafb59e479d5_1716206531.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3107__83ab5562-e42e-499b-b2d8-c5b447934fcd_8d0a2bd3ee33a1c191376488bc0b860c_1716206520.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3107__0c285c2c-98c1-4752-b48b-3438fca3690e_48137cc3e22f13f790175dfda745bf47_1716206543.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3107__212fc9bc-0889-44ce-b318-0c4fcb2b9837_fdcf893423ee33c1d207c1f20739e3be_1716206525.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3107__e8a6b274-6e78-4533-b6ab-7d907297e905_c9f101185d0ebacd9e0fb9aedd6114b1_1716206527.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3107__c6fbbde9-33fe-48c2-b6b3-f3d72f4c7851_9f19bb4274efff48fdd2c1ba191b3bce_1716206529.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3107__b5a8249f-7310-4a42-b939-80bfe782c438_1d68f4dbb1f85186e7a4e41a920db6d2_1716206536.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3107__90019663-9d42-417e-aa5b-a57bec56455a_9a8d39237b75208e77d9d1b9c522e65c_1716206539.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3107__18baf709-8c48-4259-a6d0-026a6517d8a3_6ee1cd8a7646439493f67aff16006238_1716206545.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3107__fe0b9bc2-951a-47dd-af01-ca945a06ad6a_3c6ffc75f90525a46bd836c8c5e0fd1d_1716206541.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3107__440cbe8a-f2cc-4585-b701-6021158d9817_cabcbecacc544e0d482172c4dfa38b6b_1716206534.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": true,
+    "createdAt": 1722241788000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Patra Centre",
+    "complexGR": "Πάτρα Κέντρο",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 3604,
+    "code": "3545",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 37,
+    "plotArea": null,
+    "price": 420,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3545__50b6c5cc-34fc-4793-bf1b-4b4eea789a2f_09d734db9c8c3620ea1069dde4a6d300_1739975609.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3545__6afba8e8-d901-4c26-9361-577a47d96631_8a56c0c3722b77d9d6e9056b6351c637_1739975611.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3545__7c415566-53ac-425d-a799-c4474c988264_949ac36c1d48b98d0c5472e468588aa2_1739975614.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3545__ba2638a9-d7d5-4d0e-ad16-99d5911b8762_27ea5c43f9625cf80c2ba3a5c6d25eb0_1739975603.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3545__20fb3719-9ebf-4534-be5d-539abd5d99bc_07687f478f8bc7cc82130b97ad465b18_1739975601.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3545__c5784126-8fea-4d3c-992f-7a8458ef61af_f35e18b68f7e416ece5d57608387f88e_1739975594.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3545__abfac44b-5705-453c-88b7-a8c13510cb26_63f97113214df62e99edb08bb528f614_1739975596.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3545__563e7082-233d-485d-98be-b136d1ff00d5_8759b606524d97a9a84b898b68a928bd_1739975598.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3545__5740188e-73f8-4fd8-b9bc-5dc45906b083_31f6f17bdb1cac5c6c8fb3322b6701d1_1739975591.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3545__977d0866-a521-470a-9984-8e5395811884_4490abbbd8b600f8785ffbf70c10c69c_1739975606.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3545__adb64ad7-a6bd-4bb1-a063-b313d5cd331f_bb5a6ed02391b488ea518a6dac526cbc_1739975589.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1740647457000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3721,
+    "code": "3639",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 65,
+    "plotArea": null,
+    "price": 430,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3639__333b232d-603a-4f9b-a9b0-85a1bba288fc_ALI_3972.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3639__df027700-3695-44a3-9da3-4ee90bbd773f_ALI_3974.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3639__6c41388b-6195-4009-9fd4-53e7fe4677b7_ALI_3989.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3639__9960e20a-f560-4d4a-87d0-0264a90a4285_ALI_3986.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3639__1613ca14-6e5c-423d-81b7-9ccf20e71ad0_ALI_3988.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3639__81b0ed64-679b-404a-92df-75a03a51eab3_ALI_3980.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3639__f1a23d58-61cd-4678-9318-dc9a0ee163b1_ALI_3984.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3639__a787dd8d-1e8f-4873-b911-6752a7bcc5c7_ALI_3982.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3639__dc67d491-e628-4918-a903-d3ab09214e61_ALI_3975.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3639__ca7b7439-53e3-4cc9-a16d-c85b7f3cf931_ALI_3976.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3639__00b98ce3-ba10-4fbb-b8de-83e789b5f8eb_ALI_3977.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3639__536ad0bd-f5b0-4977-b1ff-3d433a245db5_ALI_3979.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1744371721000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3351,
+    "code": "3387",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 50,
+    "plotArea": null,
+    "price": 500,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3___6a4b5f4d-e60b-4d39-b931-0c0435f42381_DSC_5008-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___74febc43-50eb-4313-8201-e04b88a8faa6_DSC_5015-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___63500850-611e-43fb-aab5-e6e14f06e587_DSC_4980-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___8a28bbd9-9677-4d41-a5fc-64356bc43aef_DSC_4987-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___87c2f2f3-66a4-4dc3-9235-d3f3c1909148_DSC_5001-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___9f916532-d3df-4c88-8a9e-5d2086452abf_DSC_5050-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___5349cada-3b75-4636-8f8d-a3c78fde5e9c_DSC_5043-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___c1891589-b695-4c4d-a0db-706035f1c585_DSC_5036-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___d72926a6-ec25-4871-bb6a-9e74659bd949_DSC_4966-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___42578fae-1fc2-4ce8-8c84-ec9fa8c145ec_DSC_4959-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___da962cb8-8a82-45fa-8444-af77d5aec6cc_DSC_4973-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___ea480a16-4975-4e6e-abd8-0a61ead214c5_DSC_5029-HDR.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": true,
+    "createdAt": 1732268392000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3628,
+    "code": "3576",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 28,
+    "plotArea": null,
+    "price": 330,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3576__f99d243c-2b3e-494e-8a49-b063ea587b76_DSC_8175.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3576__78528294-d99e-44f5-b265-27596c65ba64_DSC_8176.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3576__38a8e392-2ce1-4e43-ab46-b25ca5697b69_DSC_8177.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3576__3bef29a3-d066-4717-8d95-bed5f5876e64_DSC_8178.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3576__1ce8d366-ae12-44d1-9b6a-ef632fb3d2a9_DSC_8179.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3576__2ad0914e-de52-4b09-8a50-fdbe7e643ee0_DSC_8184.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3576__21c98481-aca7-4105-8bfe-4e9480b4e6bf_DSC_8185.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3576__aa5838c6-99ff-4e83-800a-6eb672ce709e_DSC_8183.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3576__f4f753f2-f138-4327-904f-573e44080676_DSC_8170.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3576__72c0322c-7feb-41f2-9356-aff201c42669_DSC_8173.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3576__0da10626-58d5-4c6c-8000-bc558d58af87_DSC_8171.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1741611911000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3644,
+    "code": "3591",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 25,
+    "plotArea": null,
+    "price": 300,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3591__46dd727e-8676-4201-a3bb-cdac104b28a8_DSC_8294.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3591__b7d84012-d552-468c-904f-75426532dfdd_DSC_8297.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3591__10222d7c-9cac-446f-a698-dbd7f50be46f_DSC_8290.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3591__63172bd9-9595-4ade-bafa-55c99cd7f079_DSC_8291.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3591__fae9e624-591d-4573-97bb-552f4c8e55d4_DSC_8292.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3591__3118e6a9-405c-4ccf-9f06-e71f19b6a0de_DSC_8295.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3591__50f67cb6-e595-4efe-9e53-cfc3c1a0de89_DSC_8296.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3591__b282d737-c2ec-4690-9e19-1125a3cf8b4e_DSC_8287.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3591__2c7ca7d0-d54b-4de6-9d42-eb3705903f06_DSC_8289.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3591__f21fba4b-9858-4ab4-9664-947ad165cf0a_DSC_8288.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1741937602000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Agia Sofia",
+    "complexGR": "Αγία Σοφία",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 2450,
+    "code": "3115",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 60,
+    "plotArea": null,
+    "price": 400,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3_3115__f6ea5384-800b-461b-a36c-cedbc6c9c7c0_DSC_6786-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3115__9cc23ace-2b24-420a-8fa8-3cbfffdd6026_DSC_6807-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3115__6e471511-63a5-4bc3-8bac-cecc75998222_DSC_6815-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3115__0d89c22e-9c55-472f-9db9-5eef5e0bfbaf_DSC_6822-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3115__601e07e5-33e1-42f7-905f-76103034cdd1_DSC_6836-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3115__5c763bee-9118-41ba-9872-935b345bc932_DSC_6829-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3115__b26ea35b-befb-4831-ad82-62a500b8644f_DSC_6793-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3115__6a4f2aa2-4366-4cf2-b9c9-5028d084b642_DSC_6800-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3115__4e61cf04-a92c-466e-a1a2-be1b3e876d84_DSC_6906-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3115__dd18e621-c81a-490c-955d-7e4a0c48af31_DSC_6920-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3115__963b6412-4090-40e8-92ea-43ab39c67c90_DSC_6927-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3115__edc5f3b5-9034-40d1-b4fa-595a13c73671_DSC_6913-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3115__55805902-bdbf-4241-857e-a631530f624f_DSC_6934-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3115__84e86452-4d8b-434d-b67a-70b8a4288dff_DSC_6948-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3115__7de189eb-576d-4176-a483-1f52c28ecb18_DSC_6941-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3115__4990e9e4-05fe-4c70-95e7-4b132069b1ce_DSC_6955-HDR.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": true,
+    "createdAt": 1716543417000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3602,
+    "code": "3554",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 30,
+    "plotArea": null,
+    "price": 500,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3554__c9f89233-8584-4c50-8c05-5d444689a9f0_DSC_5720.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3554__af92a1fb-f581-4192-b547-2a067f417e44_DSC_5721.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3554__812c7844-e41e-4f10-bac2-13e738540649_DSC_5724.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3554__bfcb90ca-9298-4c43-bf0c-c5fe0e2e488c_DSC_5723.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3554__86876fb6-9436-4698-a11d-1efd1316a02f_DSC_5731.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3554__0a1790df-2175-4902-a13e-7594af77c875_DSC_5727.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3554__6e1fb80c-0e0e-4f3f-9389-6530468e397e_DSC_5732.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3554__74c22459-6097-4f43-ad52-ee630d78a105_DSC_5717.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1740567514000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 2451,
+    "code": "3116",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 80,
+    "plotArea": null,
+    "price": 450,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3___97be7ff0-9506-4d06-8b1b-fc14792f455e_DSC_6899-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___030811ac-fd2c-4335-91ff-84dcc7c35a95_DSC_6857-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___02e7c0fd-ef8f-4f4a-b1ad-930ac1c8cbf5_DSC_6878-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___4d7d1c5e-14f4-4645-8fa6-655bd2e6bb2d_DSC_6850-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___fce193a4-3c9e-4ed9-9c1d-11ca4b300e0d_DSC_6843-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___64d3c480-62ae-4906-be69-c593aaa9fd04_DSC_6871-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___94d25e19-c80d-45cf-8330-3cdcdc805ed6_DSC_6864-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___fca9bfc3-39f7-47b3-bd68-538c908e7b02_DSC_6885-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___51f2ed49-fc66-4612-bd50-f814d1bb33ce_DSC_6906-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___e245068f-a924-4a56-8a12-33dea1ace67e_DSC_6948-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___a98b3e1c-be76-4b90-85b3-27828217f8f9_DSC_6920-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___9670cd3c-1c68-46ab-98c2-23b9384727b3_DSC_6927-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___8036b6ad-2b85-4580-ba0f-a002fc5b58ad_DSC_6934-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___8a35ea22-e4dd-4ac9-8c5a-42bc4bbf9b6c_DSC_6941-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___4c6aa68e-07fb-4cef-9ada-410609360796_DSC_6913-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___9bdf4379-d9a9-47a0-b97d-c3f7eac5112d_DSC_6955-HDR.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": true,
+    "createdAt": 1716543907000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3623,
+    "code": "3571",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 25,
+    "plotArea": null,
+    "price": 280,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3571__9abcdcd0-7cd4-4fa2-80fa-8ae67c84cd92_DSC_8073.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3571__a4c4355c-557e-45e1-9676-24e4d484a0ed_DSC_8068.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3571__cc9575d4-fb34-4741-8cb5-19746cc7f3bf_DSC_8076.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3571__4f193718-b05d-419c-9cc5-91bda61078d6_DSC_8072.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3571__ed30721a-b353-4a02-8d83-c364a9d3600b_DSC_8070.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3571__97982e34-a9d6-4409-9572-d6ec490851f1_DSC_8069.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3571__efa2b3e2-7d9d-46fa-850b-d4745a013c88_DSC_8074.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3571__65cc3520-3421-4066-ad01-ddbbfb913202_DSC_8066.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1741605949000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3666,
+    "code": "3604",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 40,
+    "plotArea": null,
+    "price": 550,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__6fdcb963-8d3e-458d-95ac-43c20dee8ee7_DSC_9057.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__0360850a-f182-4418-ad4e-c0fc6418e7a6_DSC_9047.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__bf1f4148-47ce-4f37-b40e-12c86e788152_DSC_9046.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__ef382a34-edc2-4a0d-ac09-354575a67cec_DSC_9048.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__b30055f1-5916-41bb-8e65-86cfe85fa69c_DSC_9019.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__f412bc86-0f87-48d1-b2d3-159cf3a5e648_DSC_9043.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__5c5acae7-659e-4c85-868a-8db1f6704e57_DSC_9042.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__b649df40-72d5-422e-8235-c90d0eed0bec_DSC_9017.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__a1d0d060-ee41-4264-897c-c8c7642f1d7d_DSC_9020.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__fc090214-0ffa-4562-a296-8a5c8db9e0da_DSC_9058.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__b0effcce-f6d9-418f-8e40-688314a2409f_DSC_9049.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__9d996a5a-33ea-4380-af2c-a1d08f757a61_DSC_9052.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__4537158a-145a-4a5b-87d9-991857c56593_DSC_9059.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__c2cb0f80-f34e-46a5-9ff1-a49d83e832bf_DSC_9009.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__1a27d8a9-198f-4b62-95e2-75a62aee7017_DSC_9007.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__c4f95c52-a3da-4bab-9099-bd3535a917b3_DSC_9015.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__a48035eb-5c65-4ea1-9a19-bca337d82270_DSC_9026.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__7d72cec6-4e80-4649-8343-3b707c2fbb29_DSC_9027.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__c3a800e2-b979-4871-a4c7-9afebd457d5b_DSC_9035.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__844ce403-7de2-494c-884d-389de41eaa53_DSC_9032.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__51685965-83a0-4531-a9d5-7b883c715188_DSC_9024.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__65df498e-a8a9-490a-be6f-d0ad5bb3f748_DSC_9044.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3604__8579d9f9-26ad-4ba6-a725-688a098162dc_DSC_9045.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1742557337000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3688,
+    "code": "3617",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 30,
+    "plotArea": null,
+    "price": 350,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3617__e7d985f1-59ec-4c24-8aa7-d789a18c8833_DSC_9671.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3617__404d97dc-8713-4bc9-9bb1-f2d140578c48_DSC_9667.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3617__946dc1a8-3be9-460e-8796-7b0984d246d3_DSC_9668.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3617__58eb050e-046e-4ade-a8cc-878e89854071_DSC_9669.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3617__d409dbfb-d6a2-4bb3-9db0-ab8fd09af8b4_DSC_9660.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3617__88f0c0d1-81e1-43f4-a195-07c2165495ce_DSC_9658.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3617__b2985cab-71c3-4ff6-a326-d07b206db945_DSC_9665.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3617__b5cfff98-e745-4887-8b93-8a208c2b52fa_DSC_9663.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3617__1275369f-e0a9-44cd-b035-fe24026005cf_DSC_9666.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3617__17203b8c-d0a6-40bb-9b1c-30acccd55362_DSC_9674.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3617__0e814db1-758e-4898-9bcf-c2e8d7dae947_DSC_9673.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1743411593000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3453,
+    "code": "3448",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 75,
+    "plotArea": null,
+    "price": 550,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3_3448__dd069e53-156f-4903-b932-f1f529c659dc_DSC_7013-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3448__c09e86a8-30f4-40f3-8c25-c5628ddc252b_DSC_7090-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3448__daba18b9-94c0-42b8-9f47-f14cc017cf77_DSC_7076-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3448__179e5a2d-6b29-4775-b93b-748b4e098373_DSC_7083-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3448__76bbaf7a-05d4-47d6-bbf4-c84da208a525_DSC_7026-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3448__9bc34958-0b01-43a8-97fa-bea2ac82b8b5_DSC_7048-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3448__6f0faf28-32be-43b5-b37e-1cd63a0c5c7b_DSC_7041-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3448__30008799-b0d7-48fa-bc9b-552265434db7_DSC_7034-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3448__3e0f90f7-6b21-4c06-89bb-5bcdea530223_DSC_7027-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3448__8cab93d4-58b4-4d23-a433-4cd3367f186b_DSC_7006-HDR.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1737452721000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Patra Centre",
+    "complexGR": "Πάτρα Κέντρο",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 3763,
+    "code": "3673",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 60,
+    "plotArea": null,
+    "price": 480,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3673__7d95c889-6b13-4a18-93ef-60b887d00e87_DSC_4232.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3673__659e3100-bf99-4590-8aa3-d0dd85552f6e_DSC_4237.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3673__88f243c4-026b-488c-b9bc-dcbb18a6e182_DSC_4231.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3673__d1eae201-b20c-4b24-82ee-229a86aabfc3_DSC_4228.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3673__11f03edf-8844-4387-aaf4-2c09a3a3f0b6_DSC_4215.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3673__c1b2a5f1-71e1-4a66-ba8f-fc6b44fe35ac_DSC_4216.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3673__1346b781-c0ff-4475-94a9-782df3238a73_DSC_4221.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3673__5e0cd3e9-073c-42f6-949e-ff2c135a07cc_DSC_4220.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3673__f1fb60b6-73a5-4256-809e-2f5fda4d8891_DSC_4223.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3673__23bf5410-b24f-459a-88c4-dde6e5e578f2_DSC_4224.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3673__eb684d92-1d96-4587-8a2f-9c32239845b4_DSC_4226.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1746440687000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Agios Dionysios",
+    "complexGR": "Άγιος Διονύσιος",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 3308,
+    "code": "2506",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 50,
+    "plotArea": null,
+    "price": 300,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3_2506__b20d1837-6dd4-4564-8179-f90a77d2c97b_079a1c24de9008be7753b48563f52f53_1681904390.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2506__989c7997-8a5c-48f6-b27a-b188464c096e_480c4fa69403e3f7d09b6bdb97cac787_1681904397.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2506__a5da7bf3-e57d-46be-8e14-ff268ef5e9e7_efb6603742770726f0c14c0ddaa102d1_1681904400.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2506__f66f338a-b45d-4673-b6e9-3873d1cc960a_11c23764458b9bf93da745d5299009da_1681904393.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2506__8158945f-e79e-4aa9-adfe-ec49481ad73e_75d8a0ff122894e37f869bf7e6d99b6b_1681904412.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2506__bd399ce2-9d4d-4064-a6aa-bf980be7c4a4_81435b8fa4e29bae962b933f12b2ad9d_1681904403.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2506__699f0d75-2684-4847-bad2-6f05ff8ee993_e24bd2b9534b11fd64ad7c355c5a55eb_1681904408.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2506__d78ed67e-9912-4e7a-9fa1-2b0b2649a6cb_047e97045a566cfde10bec67411633a2_1681904405.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2506__c4281576-8c47-4aed-82c5-e1c15f6db7d9_d032c7e874a5fe252409e2b7e066402d_1681904410.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2506__d94ed97b-0056-48cc-9ba7-255a933708e6_561c024ce0a69b544aeb3f294ce6255d_1681904422.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2506__85d6313f-6a3b-424d-9b79-ba794ea5ff36_6378cdd1cccaa7f9543713f5e8fb2f82_1681904416.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_2506__b4372db1-9359-4879-a8d9-f751ba1d88bc_68672f56c0d1be306f009ab47d22724c_1681904419.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1730369326000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Magoula",
+    "complexGR": "Μαγούλα",
+    "cityEN": "Rio",
+    "cityGR": "Ρίο"
+  },
+  {
+    "id": 3614,
+    "code": "3561",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 74,
+    "plotArea": null,
+    "price": 550,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3561__ce7cab3d-b8f8-44aa-833b-5d182e4adde6_DSC_6687.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3561__d6b8bee6-644f-464a-ba77-a5f90a078385_DSC_6690.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3561__cb59c549-0d26-43ee-88b4-490f053c0e53_DSC_6693.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3561__773fd346-448d-41aa-a51e-4254eca35afc_DSC_6681.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3561__efb12500-07e5-4306-96dd-1351af71899a_DSC_6683.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3561__c72a8c34-39ba-439e-b9de-e5320a3cc71f_DSC_6694.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3561__49ae60f3-9810-4cfb-89d1-ffd529348f34_DSC_6686.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3561__03e5f1b6-91d3-43df-88ac-8c23b44ff2be_DSC_6682.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3561__334e2ee6-20b8-4b0a-8d25-4f1317cac8c5_DSC_6689.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3561__22feb283-ce0e-4264-8322-7995ecbc4664_DSC_6684.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3561__c2433fef-be81-4c32-8da0-1929a933e512_DSC_6692.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3561__64339c81-b1d5-4298-addd-a40e583f2275_DSC_6678.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3561__c100229e-9e28-4470-92a4-ed992e974290_DSC_6695.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3561__1d628eb4-002f-46e8-b824-c1f511f56453_DSC_6679.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3561__f74aabdf-94a0-4b6b-baff-0a5046ebc867_DSC_6680.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3561__6550380e-c1c9-4cfe-bded-f658b6a9e01d_DSC_6699.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3561__d714e965-5549-4e52-9888-929eef4410cd_DSC_6696.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3561__ff4320ac-05d7-478e-815f-637b6b198c9b_DSC_6691.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1741082814000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3667,
+    "code": "3606",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 35,
+    "plotArea": null,
+    "price": 500,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3606__f9bb0a63-92d7-445f-8566-6ddedeb4cfcc_DSC_9005.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3606__4a1e32ee-e186-4517-941c-4ac5976444ea_DSC_8993.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3606__26198c1d-5616-4f0d-b781-dfbea2f5936d_DSC_8992.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3606__ceb189a7-67e9-4dd7-92f6-c0b21c8576f0_DSC_8994.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3606__a244b917-2350-43da-92e7-545d78897e0d_DSC_8997.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3606__940338d0-511a-4a0a-87c5-1e50ebc5c457_DSC_8996.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3606__c5cfba8a-1906-4e7b-8c2e-d0296c64d5f0_DSC_9000.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3606__46c2b3bc-67f2-4f23-9b1b-bca4cd8d7636_DSC_9002.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3606__d35d0d3c-824b-4f71-988d-fe031c867026_DSC_8999.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1742560824000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3761,
+    "code": "3671",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 50,
+    "plotArea": null,
+    "price": 440,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3671__8594ba6f-8f2c-4fb5-ac94-f23a337e7d32_DSC_4212.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3671__4d115ec6-8a1f-41a1-b973-0e88a897295e_DSC_4207.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3671__42f3f442-6fb7-4ca8-8598-5e79c989961f_DSC_4213.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3671__16c907e2-dd36-456c-b3ff-58178d8def14_DSC_4208.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3671__c1e5e86d-cc31-47d7-bce4-955e974ca9ba_DSC_4209.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3671__b914d602-676b-42b6-93b2-a0d179427072_DSC_4210.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3671__7b4cfe03-466a-4f86-9c85-2cefb08ec400_DSC_4211.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3671__d3a81281-67f3-40f0-8579-f34142636322_DSC_4201.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3671__0d0a49fa-a6cd-4d5e-a2de-92ea1d4d24a3_DSC_4204.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3671__885c393e-2fd9-4196-8cbb-e00e27994345_DSC_4200.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3671__07716c4a-4726-46f1-8772-6c657788ae85_DSC_4202.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3671__a03af182-4a52-450d-8e36-1bc7cea1adfe_DSC_4206.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3671__03d75226-7f94-444a-ab50-b88b08ebc769_DSC_4205.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1746186484000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Agios Dionysios",
+    "complexGR": "Άγιος Διονύσιος",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 3598,
+    "code": "3551",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 37,
+    "plotArea": null,
+    "price": 350,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3551__3da96ba0-8de4-410f-ba45-1816d64e1980_DSC_5711.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3551__ff988e7e-7706-4ca4-ade0-a0150e5c1559_DSC_5710.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3551__7ee68f64-c6dc-40d2-b199-02c812aadc33_DSC_5709.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3551__6f52921c-f820-4c45-a935-f631724495a2_DSC_5715.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3551__3a453ff9-98c4-4235-b9c3-11e5e1405cc0_DSC_5713.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3551__a5193725-731e-460c-8598-8fd3999e2d76_DSC_5714.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3551__f922e7cb-89d1-44f5-81bf-712f966be705_DSC_5716.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3551__0ab60066-558a-4447-b426-6f4a4d674d14_DSC_5705.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1740401524000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Ipsila Alonia",
+    "complexGR": "Υψηλά Αλώνια",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 3615,
+    "code": "3565",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 50,
+    "plotArea": null,
+    "price": 600,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3565__bfdbb7fa-0c8e-4aaa-ab5b-1f57d9659584_DSC_6721.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3565__db9dee34-b5be-41eb-8e1d-2b5484447843_DSC_6722.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3565__71ca293e-1260-4429-bd50-719d25d8d4d6_DSC_6725.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3565__d68237ff-ddbc-4ab6-be41-bd013b02f1be_DSC_6724.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3565__cbf692b1-1e03-4e48-916b-35f28de27cc0_DSC_6714.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3565__be939dfc-7ece-4895-ac16-425aecac79d2_DSC_6713.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3565__346c568f-271f-479e-9679-d40c0476b832_DSC_6712.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3565__c32f025e-230e-41d3-ba6e-d5711eef3106_DSC_6711.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3565__08b21c6a-70f2-4906-8a2c-aecf0808d8e6_DSC_6717.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3565__a90307a5-bf27-4cf8-be54-3c5135a15757_DSC_6718.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1741093214000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3743,
+    "code": "3656",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 61,
+    "plotArea": null,
+    "price": 500,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3_3595__d9b660da-d90f-49f5-9f98-238167b88699_29c8f7d011c67025f99135bfe3b9f74e_1742388334.jpeg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3595__fbc9cd0e-88d2-4c70-b06e-712934272c19_848f68259bc2d1a1cd92f9b827003f5d_1742388331.jpeg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3595__ee850501-0ef0-4b79-b4d6-07ec6266167f_17c44858e2359077783fe55db1a6356a_1742388329.jpeg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3595__cba6adb1-733c-4c2f-a22c-d11f67ae13fe_83675d418f6008b5a6db2d910576b5ed_1742388359.jpeg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3595__42743890-4753-4cea-8e22-042f55055381_58981cfc73657f3afa3bdfacd930fc32_1742388365.jpeg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3595__57259fc9-5ed2-4d20-91bb-5e6062bcdba9_1a9ba73c534ec4d983b24c5f6e5c42fd_1742388368.jpeg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3595__9d74fb9e-d891-4dad-906f-1c1c3959b17f_3c269da7a600147e1dafb8d4d5badebd_1742388342.jpeg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3595__ade43c3f-4b3e-4a88-b64b-8ff97fa2ce4f_7ca1f897ff2873475eca194cd0bc495c_1742388361.jpeg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3595__a25077c2-f590-4e13-9400-c608002152f3_9311b62ea401d99404bec90d24921a3b_1742388428.jpeg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3595__ff70daca-0545-49f9-97cf-d63ab65e1a75_5df48924215b2bc8b63b974bdbc139d2_1742388371.jpeg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3595__601dea76-690c-41a6-8f97-8cf625f22be9_8e96f572216b05b3dd053bc87cde0ce1_1742388349.jpeg",
+      "d35mahbm2p5leq.cloudfront.net/image_3_3595__465f53ba-a23b-401b-9470-1826a7da2ad3_8b527ebe3dfa1435c99e055ccd228997_1742388352.jpeg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1745581607000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Agyia",
+    "complexGR": "Αγυιά",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 3597,
+    "code": "3550",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 34,
+    "plotArea": null,
+    "price": 300,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3550__8111951c-8578-4771-99b0-97fdbf7ebba3_DSC_5695.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3550__5cb3fe16-5f75-48b5-b7d9-b9099c00656a_DSC_5696.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3550__3256a891-7bd9-458f-95df-28874a082047_DSC_5692.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3550__7679da07-a0a6-4782-9856-61512430b673_DSC_5693.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3550__2afc73ed-d1eb-4eae-8e1b-282d8fd9185b_DSC_5694.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3550__7674c783-27be-4c0b-88d3-8091e8b443dd_DSC_5703.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3550__17a8055b-8970-4288-a6d6-d2f9bbe2d74d_DSC_5704.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3550__68929469-cc92-45b4-b376-1caf0c05b099_DSC_5698.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3550__761e5eba-18e6-4d53-9e29-a4f2ab5f4982_DSC_5701.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3550__0c3d2c19-7a42-4ce6-b7a4-2e4ec53cea9c_DSC_5699.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3550__5e34708b-e8d6-42f2-b24e-db2f974713f9_DSC_5700.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3550__3cbdd5ca-a35e-4469-ad07-7ab2379e3fd2_DSC_5688.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3550__35025bdf-6191-4bc0-b906-f266a9737b6b_DSC_5689.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3550__23ec8ab1-f8d4-4b15-af43-9144c834324d_DSC_5690.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1740401151000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Agyia",
+    "complexGR": "Αγυιά",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 3755,
+    "code": "3667",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 40,
+    "plotArea": null,
+    "price": 300,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3667__bbba2945-3f99-4751-a86d-b3bd3f3670d4_DSC_2870.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3667__210e032f-2d60-42c0-925f-a7de749e7847_DSC_2869.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3667__1dd6e603-aa43-4d76-a763-40109f01514c_DSC_2874.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3667__19344c89-7c3e-4fa1-b265-b0ac763acb2f_DSC_2883.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3667__2dea2977-f61d-4dfe-833a-b11871f9ed52_DSC_2873.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3667__c605e352-47c2-4d3e-a621-6c34b5509717_DSC_2878.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3667__a8d85b5b-0ce6-4e94-b8d2-2b4107ecabb1_DSC_2879.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3667__45a2fd6c-ad68-4ec6-939e-243804f7009a_DSC_2881.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3667__1d7405be-8490-48cf-8542-a0bc3206aa00_DSC_2877.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1745933567000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "T.E.I.",
+    "complexGR": "Τ.Ε.Ι.",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 3616,
+    "code": "3567",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 45,
+    "plotArea": null,
+    "price": 550,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3567__168d8148-7071-43b3-84f2-cf6e5e4c1012_DSC_6748.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3567__541a73cf-37d3-4656-9727-9ae62eee05cd_DSC_6750.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3567__8316f44d-d71d-4a34-bd8b-fa9cfd81ad1e_DSC_6752.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3567__e93a4ec8-d576-4ef8-b53c-75c70c97bd83_DSC_6751.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3567__7327cd63-1942-4285-b033-9681f3bd94fa_DSC_6747.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3567__b6f776c1-8306-4241-8578-c6528a36402c_DSC_6757.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3567__8fdf34e5-083a-43fc-b2b1-6ac4d4cb5745_DSC_6755.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3567__9bc51679-36ef-4b08-a8fd-3d172edcb267_DSC_6756.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3567__78162782-6e34-4c62-94e5-bd393b471ce0_DSC_6753.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1741093740000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3617,
+    "code": "3566",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 55,
+    "plotArea": null,
+    "price": 600,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3566__a4eaed1c-07c1-4155-a64c-789eb04aa307_DSC_6735.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3566__c694e6ec-1341-4b65-9b9e-09e2f1ec9985_DSC_6727.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3566__065ca862-91d9-4f0a-b765-6fcaa9a0968f_DSC_6726.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3566__8ac1d35b-44aa-4d86-a609-e1c88280afc9_DSC_6731.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3566__12e57646-494b-4222-a84c-bdd1b3a79af5_DSC_6736.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3566__cf2502f2-f388-4e74-b8e5-35826519ebf8_DSC_6737.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3566__ef4c1921-6ea6-4f59-bee3-0b924f4eef79_DSC_6742.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3566__196cf881-20db-4a8c-9241-574bf16ebece_DSC_6739.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3566__90cf2061-6087-4a7f-973d-6d82616f587a_DSC_6740.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3566__bc5d0032-e8ba-4063-a9c3-0d3d8aeece9b_DSC_6741.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3566__e94a373d-5421-47e8-9b18-a1523bd1dde3_DSC_6743.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3566__e47a5949-99d4-4636-afe4-a1652e4c144d_DSC_6745.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1741093843000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3747,
+    "code": "3660",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 35,
+    "plotArea": null,
+    "price": 360,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3660__71d27d9f-a8c3-44d7-a3fc-339d3836c067_DSC_2841.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3660__b885ea76-cff1-4af1-b497-e0017d05d406_DSC_2839.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3660__9544f5db-200f-4f98-8948-873a6d8f9aac_DSC_2837.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3660__9eeb84d7-939b-4893-9730-786b294b88cf_DSC_2840.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3660__ce5089fc-0282-449a-9f38-c76cdb29f8af_DSC_2848.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3660__88afaddb-5da9-442f-864f-4e8a7ad41278_DSC_2847.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3660__2b80d8b8-4326-48b1-b061-e6a59585f9f1_DSC_2844.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3660__c7faadd1-6531-4b49-a47f-847eeeb8ff2c_DSC_2835.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1745845561000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3699,
+    "code": "3625",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 50,
+    "plotArea": null,
+    "price": 400,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3625__d12a8a60-7f48-40a8-841b-00b2735185bd_DSC_9906.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3625__d0fae03e-0e97-4d44-b433-34a5cb5f7f1b_DSC_9910.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3625__29c8c5db-9d04-42f8-a104-3ed03ecce792_DSC_9911.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3625__f4f8c005-793c-4f87-8fe3-088be1b3f296_DSC_9907.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3625__66d9aae6-f52f-4793-9b67-87e9d9d9abef_DSC_9903.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3625__815f6405-2db9-4101-9c87-f1d68ea02c7c_DSC_9902.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3625__3a45a376-14bb-4f74-9300-26c4f3c106dd_DSC_9899.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3625__d43adf6c-1f2b-4094-a154-9ffaecf2ca18_DSC_9900.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3625__bfadab3d-0cd6-4714-98cd-7762ea5fbe9d_DSC_9901.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3625__de69bc2d-653d-4acf-8605-0753fe2956ff_DSC_9898.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3625__3b05e3f9-5af0-4302-bfe3-33e627232085_DSC_9912.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3625__b6c463c9-d504-486e-840f-75bd60388bac_DSC_9904.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1743684372000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3722,
+    "code": "3640",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 80,
+    "plotArea": null,
+    "price": 500,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3640__7fbe018d-dc0c-4f3a-9d3c-909940f101b0_ALI_3963.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3640__af64efab-7502-4a02-a633-d799c9784627_ALI_3966.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3640__be7d0e44-b222-45d0-ae8d-2529fe20ad46_ALI_3965.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3640__22a4617b-b865-4ef0-8da4-4625bed7758f_ALI_3961.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3640__269012c7-abd5-4591-99f0-5e84f6b478bd_ALI_3968.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3640__4a86088b-d8a2-42aa-a2d7-c4e94f3ae2f7_ALI_3955.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3640__1297ea5c-ad3e-45f0-a3ff-18ecaf8a8585_ALI_3957.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3640__69203b38-3296-47bc-a08b-cdc45fae8e62_ALI_3958.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3640__344e74af-00c5-4ded-9c79-277dacb35baa_ALI_3951.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3640__2e69ada3-276f-4117-b3aa-8ab89a3aeb76_ALI_3950.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3640__9b60345f-dd03-4f68-9e56-91cf66357135_ALI_3959.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3640__19ce18fc-9523-430d-b260-1dc09df9270c_ALI_3948.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3640__3cd268aa-5a33-49af-82dc-4e0e3bf9ba4e_ALI_3954.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1744372732000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3677,
+    "code": "3605",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 52,
+    "plotArea": null,
+    "price": 450,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3605__fbfd1e6d-254e-4565-b1a4-e0ea594595d0_IMG-4876be6703c12c26b809f0ca083cf7ac-V.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3605__8fc644e4-ff8e-45af-b8f1-94f44bbd5d2d_IMG-30d4e624e494a36bdf5a82cbafdfc85f-V.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3605__5c1a6c6c-19cc-47c9-9618-882a7c191e26_IMG-cd52bd26f711e3351df88a9a8451ea79-V.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3605__33c4db90-4201-485e-9ee7-ae4a0592bd88_IMG-f593febdbdf09c4490d723932c1c9705-V.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3605__570bdcbb-e21c-494f-a027-99a4914d20b2_IMG-56ec7e9324e1c52d66dba1411fb37a98-V.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3605__3c468d7b-c26e-486a-ac27-af3cdc55f040_IMG-a018d896e8743b2ef3942483d114d7d9-V.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3605__a0e0bd78-4603-460c-bcc2-6619f01fd145_IMG-5c6c39eb7d12055a3283ac392647d5d5-V.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1742991189000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3584,
+    "code": "3542",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 34,
+    "plotArea": null,
+    "price": 260,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3542__97885802-d00d-4bae-953a-7c44e1c0c23e_DSC_5564.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3542__81e8d022-2cd5-4160-8d9b-e38e3f051f29_DSC_5568.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3542__9ad6e327-d056-4e76-abce-f4d1a31cc410_DSC_5566.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3542__8068c282-08f0-4830-b379-df01f6486427_DSC_5555.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3542__83bc90f6-5e3a-4231-97b6-347d19023041_DSC_5558.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3542__6047695f-2fb0-41c0-9208-28e999e9f86c_DSC_5569.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3542__596b8fde-e96e-40df-a0d6-9660e05e6f57_DSC_5559.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3542__08b521ea-08bb-4221-a633-a4661c8a1a88_DSC_5561.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3542__268b8aeb-5ea0-45af-a38e-b63f52b8d4e6_DSC_5556.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1740144245000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3544,
+    "code": "3526",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 39,
+    "plotArea": null,
+    "price": 290,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3526__ec0bd78c-8e57-4fbb-9f58-5e99a2c64093_DSC_5247.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3526__b8c8967e-8088-4acd-b198-d8e3dcf1f37d_DSC_5243.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3526__f342fad5-f303-47b8-a2be-cdccac2e6991_DSC_5242.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3526__424f7988-c557-432e-837f-9a121fe8f366_DSC_5249.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3526__653bc9cb-dbf1-452f-b73c-259b15e69555_DSC_5246.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3526__aa6936cd-6c0b-4349-94e6-875eec90dbde_DSC_5244.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3526__194638b7-87d9-4f23-9f05-2dbdf38d0691_DSC_5240.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3526__ab0f0f58-1e72-486e-91f2-cea511ec9ba8_DSC_5241.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3526__5d6b1931-0f9f-43f3-a89a-d8e52d901e6b_DSC_5238.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1739449703000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3630,
+    "code": "3578",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 35,
+    "plotArea": null,
+    "price": 550,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3578__0619d1ac-2e9b-4f48-9224-cb66b9df11b7_DSC_8099.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3578__c6b4f6cc-b394-4751-9fc9-362041107ad6_DSC_8089.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3578__aa2ec6b4-7b1e-477a-a63e-87973d069557_DSC_8100.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3578__2bf77a49-8bcd-4999-a6b8-f56a0a2cc180_DSC_8090.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3578__0f33096b-d890-480e-8bd5-417b6661e669_DSC_8093.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3578__acbc8bd8-9ab9-4968-8e7a-44b6182508f9_DSC_8095.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3578__c47a4077-6538-4a7b-b0b9-eb75b6d1f53e_DSC_8102.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3578__a833a41e-ca22-4e45-b0d0-389bab73db25_DSC_8091.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3578__60773fe5-5065-4d7a-b1a3-1468c5759ed6_DSC_8086.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3578__b14d3aa7-2f4b-4dcc-92b5-2e0dcd8309cd_DSC_8087.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1741680847000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3624,
+    "code": "3572",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 130,
+    "plotArea": null,
+    "price": 550,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3572__ee6718f5-0a2c-4570-bcd6-fa6d7f01eacf_DSC_8065.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3572__c163a2b2-8e20-4a27-9f92-25052c36542c_DSC_8055.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3572__f9addae9-7c40-49b4-a0e2-90a5047329b6_DSC_8057.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3572__42f0f90c-2ed0-48b9-8965-7acb9408eb7c_DSC_8061.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3572__a2411ab8-bc61-4f4f-ad99-c4e97e246c33_DSC_8060.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3572__a4b8aa63-241e-44dd-a1a5-05579b8a34a3_DSC_8064.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3572__732e16c1-8540-4b16-bb47-e5c9f743858b_DSC_8059.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3572__2600d747-a538-45e0-be1d-e073eb9944cb_DSC_8037.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3572__fbf555f0-b94e-4a0d-b451-c565d157d8d8_DSC_8038.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3572__faedc652-29e2-4278-b210-f6630eca17a7_DSC_8039.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3572__b6bc59ce-d849-4dae-9a90-ed787a1a96cd_DSC_8040.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3572__c414b3f5-a2b5-4dad-b44a-a79324839bbe_DSC_8043.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3572__e2a047c9-0285-4ec2-b7a4-fd5c6773aec9_DSC_8045.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3572__89a142eb-5d05-4197-a61e-90adcb75832d_DSC_8046.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3572__5d12f391-f725-40e5-b0c6-43b7dc5e122c_DSC_8047.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3572__07c5e8cb-5016-4c1b-8583-575c70d97c11_DSC_8048.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3572__67eee855-5f36-4262-bbbc-644aea87d1d0_DSC_8051.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3572__53f5c084-a03d-4548-a305-5635676648b2_DSC_8050.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3572__352efe06-04d5-4f94-babf-1d1e03107b33_DSC_8054.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3572__6e363fc3-3fdc-487b-8433-1052fa66692b_DSC_8053.jpg"
+    ],
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1741607956000,
+    "regionEN": null,
+    "regionGR": null,
+    "complexEN": null,
+    "complexGR": null,
+    "cityEN": null,
+    "cityGR": null
+  },
+  {
+    "id": 3764,
+    "code": "3675",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 75,
+    "plotArea": null,
+    "price": 450,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d2csai3d11rhvi.cloudfront.net/image_3_3675__7207ef86-d5ea-481e-9678-84b1ecd0c8d4_b1a584ca8d858ff8dcf534e172b35671_1746695896.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3675__b295870a-4114-4aa3-873d-541f7235875e_80bb28d3db96747df0a8347041afa454_1746695891.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3675__a142d063-d771-43d7-9f12-48176ae2b23c_941344343593ef0e1d6cded83dbe3417_1746695893.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3675__3b828818-683b-4137-8e38-83f0f91fdf72_ccd89bb851dfa470854993980059a2e0_1746695898.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3675__895a0d90-f9ad-49f1-bb48-e288551b17ff_3408a2880cb9b460ea156403532cf32f_1746695900.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3675__27955b3e-52cf-4af2-ad83-ebf6d50a2e7c_93c662049e9d689306bf43854f5a3808_1746695921.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3675__7d226062-e025-4063-9745-3eaa2b600878_aa4e8832a4cb9ffebb6a36bf29127d01_1746695888.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3675__e538fea1-1123-4dc2-854d-7a863e20b9b7_478ed2280fa06ce8eb4744a39308005e_1746695919.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3675__b39b8810-f69d-4eac-b7e0-7af976fb0297_6669a564e02afe883ccd850c6455eba2_1746695903.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3675__900e32ac-9068-4efd-baa0-f34e1c5a616c_d7eb8eb3de12690b83e70d637de81baf_1746695912.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3675__9973d76d-8d31-4e27-9023-07ae2f1287d9_df7f694b4572be543f12fb6997e38179_1746695910.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3675__14ab19bb-0d25-4225-9911-ba88db992974_651f55c55586c1775f2aaa9f8674757d_1746695914.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3675__04fb7cea-5b9a-4abc-a8c1-332579a8f5ac_56356d50112db12e36723240cb2eb603_1746695905.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3675__7b67f502-7a86-4cab-ab87-5541da951542_3a428026c2cd0ae5cfcfb8c23c295244_1746695908.jpg",
+      "d2csai3d11rhvi.cloudfront.net/image_3_3675__0d9aa473-e1b1-4970-8bdd-3ce28c9a768b_6c1361f1dd2e33034578a2be36911d54_1746695917.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1746445121000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Marouda",
+    "complexGR": "Μαρούδα",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  },
+  {
+    "id": 3094,
+    "code": "3270",
+    "state": {
+      "key": "RENT",
+      "value": "Rent"
+    },
+    "area": 58,
+    "plotArea": null,
+    "price": 480,
+    "parentCategory": {
+      "key": "RESIDENTIAL",
+      "value": "Residential"
+    },
+    "category": {
+      "key": "APARTMENT",
+      "value": "Apartment"
+    },
+    "images": [
+      "d35mahbm2p5leq.cloudfront.net/image_3___8254944c-c8e5-48ca-ab45-e48e8f1f57e5_DSC_9646-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___f6f80147-3571-4a08-b110-e710e963322b_DSC_9653-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___9194edb3-3a62-4393-89e0-8cad598d6760_DSC_9702-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___d05b83a3-1c24-4bd3-8cf6-41ed45696e85_DSC_9695-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___8146ebba-63a4-42c1-9e44-257de1c541b1_DSC_9667-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___31b09f4d-4f2e-45c6-914c-04cde3875461_DSC_9674-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___34418d6f-b880-41dc-80ae-a0c579d9aa49_DSC_9687-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___2313ddb2-85b7-48bb-8bea-3d1ab182f14d_DSC_9694-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___cef181f2-c153-4773-9514-a33bf0a09735_DSC_9709-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___163a6f00-2598-44e0-86cc-47c3b229c2d0_DSC_9716-HDR.jpg",
+      "d35mahbm2p5leq.cloudfront.net/image_3___cacd1a21-aab4-4323-882a-7da0e6e60116_DSC_9660-HDR.jpg"
+    ],
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "frontage": 0,
+    "plotFrontage": 0,
+    "setbackCoefficient": 0,
+    "exclusive": false,
+    "createdAt": 1723207073000,
+    "regionEN": "Achaia",
+    "regionGR": "Αχαΐα",
+    "complexEN": "Ipsila Alonia",
+    "complexGR": "Υψηλά Αλώνια",
+    "cityEN": "Patra",
+    "cityGR": "Πάτρα"
+  }
+]
