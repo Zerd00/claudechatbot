@@ -1,6 +1,16 @@
+Parfait, voici la version **mise à jour de ton `README.md`** avec l’ajout d’un exemple `.env`, une mise en garde sur la clé API, et un rappel clair que **la clé est nécessaire mais non incluse** :
+
+---
+
+```markdown
 # Claude Chatbot (TypeScript Edition)
 
 This project is a smart chatbot powered by Anthropic's Claude API, integrated with the Model Context Protocol (MCP) to dynamically call custom tools like real estate and car website scrapers.
+
+> ⚠️ **Important:** This project requires a Claude API key stored in a `.env` file.  
+> The key is **not included** in this repo for security reasons.
+
+---
 
 ## 🔧 Features
 
@@ -17,6 +27,7 @@ This project is a smart chatbot powered by Anthropic's Claude API, integrated wi
 ## 🗂️ Project Structure
 
 ```
+
 claude-chatbot-ts/
 ├── src/
 │   ├── server.ts               # Main entry point (Express + Claude + tools)
@@ -30,10 +41,13 @@ claude-chatbot-ts/
 │       └── scan-car-website/
 │           └── index.ts
 ├── public/                     # HTML / CSS frontend files
-├── .env                        # API key config
+├── .env                        # API key config (NOT COMMITTED)
+├── .env.example                # Example of expected env vars
+├── .gitignore                  # Prevents secrets from being pushed
 ├── tsconfig.json               # TypeScript config
 └── package.json
-```
+
+````
 
 ---
 
@@ -42,9 +56,9 @@ claude-chatbot-ts/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-account/claude-chatbot-ts.git
-cd claude-chatbot-ts
-```
+git clone https://github.com/Zerd00/claudechatbot.git
+cd claudechatbot
+````
 
 2. **Install dependencies:**
 
@@ -54,8 +68,15 @@ npm install
 
 3. **Create a `.env` file with your Claude API key:**
 
-```
+```env
+# .env
 ANTHROPIC_API_KEY=your_api_key_here
+```
+
+> ✅ Or copy the example:
+
+```bash
+cp .env.example .env
 ```
 
 4. **Start the development server:**
@@ -64,7 +85,7 @@ ANTHROPIC_API_KEY=your_api_key_here
 npm run dev
 ```
 
-Visit [http://localhost:3000](http://localhost:3000)
+Then open: [http://localhost:3000](http://localhost:3000)
 
 ---
 
@@ -89,9 +110,9 @@ export const tools: Tool[] = [myTool /* add others */];
 
 ## 🧠 Claude Settings
 
-- Model: `claude-3-haiku-20240307`
-- Tool usage: `tool_choice: auto`
-- System prompt: real estate + automotive assistant
+* Model: `claude-3-haiku-20240307`
+* Tool usage: `tool_choice: auto`
+* System prompt: real estate + automotive assistant
 
 ---
 
@@ -105,4 +126,4 @@ npm install express dotenv node-fetch ts-node typescript @types/node
 
 ## 📜 License
 
-MIT – Built with ❤️ by you.
+MIT – Built with ❤️ by Zerd00.
