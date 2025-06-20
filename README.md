@@ -3,6 +3,11 @@
 
 This project is a smart chatbot powered by Anthropic's Claude API, integrated with the Model Context Protocol (MCP) to dynamically call custom tools like real estate and car website scrapers.
 
+> ⚠️ **Important:** This project requires a Claude API key stored in a `.env` file.  
+> The key is **not included** in this repo for security reasons.
+
+---
+
 ## 🔧 Features
 
 - ✨ Dynamic MCP tool support (`scanWebsite`, `scanCarWebsite`, `filterProperties`, etc.)
