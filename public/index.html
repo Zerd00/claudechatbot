@@ -16,12 +16,49 @@
     </div>
 
     <div class="input-area">
-      <textarea id="prompt" placeholder="Ask your question about a property..."></textarea>
-      <button onclick="sendPrompt()">Send</button>
+      <textarea id="prompt" placeholder=""> </textarea>
+      <button id="send-btn" onclick="sendPrompt()">Send</button>
     </div>
   </div>
 
   <script>
+    // Simple traduction pour les champs UI principaux (anglais, grec, français)
+    const uiTranslations = {
+      en: {
+        placeholder: "Ask your question about a property...",
+        send: "Send",
+        typing: "is typing..."
+      },
+      el: {
+        placeholder: "Κάνε μια ερώτηση για ένα ακίνητο...",
+        send: "Αποστολή",
+        typing: "γράφει..."
+      },
+      fr: {
+        placeholder: "Pose ta question sur un bien immobilier...",
+        send: "Envoyer",
+        typing: "est en train d'écrire..."
+      }
+    };
+
+    // Détection ultra-simple langue navigateur
+    function getUserUILang() {
+      const nav = navigator.language || navigator.userLanguage || 'en';
+      if (nav.startsWith('el')) return 'el';
+      if (nav.startsWith('fr')) return 'fr';
+      return 'en';
+    }
+
+    function applyUILocalization() {
+      const lang = getUserUILang();
+      const tr = uiTranslations[lang] || uiTranslations['en'];
+      document.getElementById("prompt").placeholder = tr.placeholder;
+      document.getElementById("send-btn").textContent = tr.send;
+      document.querySelector('.dots').childNodes[0].textContent = tr.typing;
+    }
+
+    applyUILocalization();
+
     async function sendPrompt() {
       const prompt = document.getElementById("prompt").value.trim();
       const chatbox = document.getElementById("chatbox");
@@ -44,7 +81,8 @@
         const data = await res.json();
 
         typing.style.display = "none";
-        chatbox.innerHTML += `<div class="claude-msg"><strong>Claude:</strong><br>${data.reply}</div>`;
+        // Affiche directement le HTML retourné par le backend
+        chatbox.innerHTML += `<div class="claude-msg"><strong>Claude:</strong><br>${data.html}</div>`;
 
       } catch (err) {
         typing.style.display = "none";

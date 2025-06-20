@@ -1,4 +1,12 @@
 function generatePropertyHtml(property) {
+  // 📌 Étape 1 — Log complet de l'objet brut reçu
+  console.log('[DEBUG] Raw property object:', JSON.stringify(property, null, 2));
+
+  // 📌 Étape 2 — Accès direct à la valeur de bathrooms
+  console.log('[DEBUG] Value of property.bathrooms:', property.bathrooms);
+  console.log('[DEBUG] Keys in property:', Object.keys(property));
+
+  // 📌 Étape 3 — Génération HTML
   const code = `
     <div>
       <h2>Property Details</h2>
@@ -16,8 +24,14 @@ function generatePropertyHtml(property) {
     </div>
   `.trim();
 
-  // Encapsuler dans <pre> pour éviter que Claude "corrige" le mot Bathrooms
-  return `<pre>${code.replace(/</g, '&lt;').replace(/>/g, '&gt;')}</pre>`;
+  // 📌 Étape 4 — Log du HTML généré
+  console.log('[DEBUG] Generated HTML before escaping:\n', code);
+
+  // 📌 Étape 5 — Transformation pour éviter l'interprétation par Claude
+  const escaped = `<pre>${code.replace(/</g, '&lt;').replace(/>/g, '&gt;')}</pre>`;
+  console.log('[DEBUG] Escaped HTML for Claude:\n', escaped);
+
+  return escaped;
 }
 
 module.exports = { generatePropertyHtml };

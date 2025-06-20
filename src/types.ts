@@ -44,6 +44,12 @@ export interface ToolResult {
   facts?: string[] | object[]; // ← accepte tableau structuré aussi
   error?: string;
   content?: string;
+  // ❌ ne pas laisser ici __forceOutput directement si on veut que ToolResult reste propre
+}
+
+// ✅ Version étendue avec HTML brut (pour Claude)
+export interface ToolResultWithHtml extends ToolResult {
+  __forceOutput?: string;
 }
 
 // Schema describing input structure

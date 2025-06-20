@@ -1,67 +1,34 @@
 import { ToolConfig, ToolResult } from '../../types';
 import type { PropertyFilterInput } from '../../types';
-import { categoryMapping } from '../../constants/category-mapping';
-
-import { normalizeFrameTypes } from '../../utils/normalize-frame-type';
-import { normalizeFurnished } from '../../utils/normalize-furnished';
-import { normalizeFloor } from '../../utils/normalize-floor';
-import { normalizeHeating } from '../../utils/normalize-heating';
-import { normalizeParentCategories } from '../../utils/normalize-parent-category';
-import { normalizeStates } from '../../utils/normalize-states';
 
 import fs from 'fs';
 import path from 'path';
 
-export async function run(input: PropertyFilterInput): Promise<ToolResult> {
-  const mappedCategories = (input.categories ?? []).map(c => {
-    const normalized = c.trim().toLowerCase()
-      .replace(/[-_]/g, ' ')
-      .replace(/\b(houses|homes)\b/g, 'house')
-      .replace(/\s+/, ' ')
-      .trim();
-    return categoryMapping[normalized] ?? c;
-  });
+import { detectUserLang } from './localize';
+import { buildFacts, FactItem } from './fact-utils';
+import { generatePropertiesHtml } from './html';
+import { buildPayload } from './build-payload';
+import { extractRawItems } from './extract-raw-items';
+import { debug } from './logger';
 
+type ToolResultWithHtml = ToolResult & {
+  __forceOutput?: string;
+};
+
+export async function run(input: PropertyFilterInput): Promise<ToolResultWithHtml> {
+  // Robust language detection (greek alphabet prioritized)
+  const userLang = await detectUserLang(input.prompt);
+  console.log('[DEBUG] Langue détectée automatiquement:', userLang);
+
+  // Add maintenance state if detected in prompt
   if (!input.states?.length && /under maintenance|needs repair|renovation/i.test(input.prompt ?? '')) {
     input.states = ['UNDER_MAINTENANCE'];
   }
 
-  const cleanedFrameType = normalizeFrameTypes(input.frameType);
-  const cleanedFurnished = normalizeFurnished(input.furnished);
-  const cleanedHeating = normalizeHeating(input.heatingType);
-  const cleanedParentCategories = normalizeParentCategories(input.parentCategories);
-  const cleanedStates = normalizeStates(input.states);
+  // Build the filtered API payload
+  const payload = buildPayload(input);
 
-  const payload = {
-    minPrice: input.minPrice ?? null,
-    maxPrice: input.maxPrice ?? null,
-    minArea: input.minArea ?? null,
-    maxArea: input.maxArea ?? null,
-    minBedrooms: input.minBedrooms ?? null,
-    maxBedrooms: input.maxBedrooms ?? null,
-    minFloor: normalizeFloor(input.minFloor),
-    maxFloor: normalizeFloor(input.maxFloor),
-    minConstructionYear: input.minConstructionYear ?? null,
-    maxConstructionYear: input.maxConstructionYear ?? null,
-    heatingType: cleanedHeating,
-    frameType: cleanedFrameType,
-    furnished: cleanedFurnished,
-    states: cleanedStates,
-    categories: mappedCategories,
-    parentCategories: cleanedParentCategories,
-    locationSearch: input.locationSearch ?? null,
-    extras: {
-      student: input.extra_student ?? false,
-      seaFront: input.extra_seaFront ?? false,
-      luxury: input.extra_luxury ?? false,
-      mountainView: input.extra_mountainView ?? false,
-      neoclassical: input.extra_neoclassical ?? false,
-      investment: input.extra_investment ?? false,
-      goldenVisa: input.extra_goldenVisa ?? false,
-    },
-  };
-
-  console.log('[Claude FILTER request payload]', JSON.stringify(payload, null, 2));
+  debug('[Claude FILTER request payload]', JSON.stringify(payload, null, 2));
 
   const response = await fetch('https://property-pro.gr/api/v0.1/public/property/filter/', {
     method: 'POST',
@@ -74,34 +41,57 @@ export async function run(input: PropertyFilterInput): Promise<ToolResult> {
   });
 
   const data = await response.json();
-  console.log('[Claude FILTER raw API response]', JSON.stringify(data, null, 2));
 
-  // 🧠 Mémoire brute exacte, sans transformation ni index injecté
+  debug('[Claude FILTER raw API response]', JSON.stringify(data, null, 2));
+  debug('[DEBUG] top-level keys in response:', Object.keys(data));
+
+  // Save to memory (debug or contextual recall)
   const memoryPath = path.resolve(__dirname, '../../../memory/last-result.json');
   fs.writeFileSync(memoryPath, JSON.stringify(data, null, 2), 'utf-8');
 
-  const items = data?.data?.items ?? [];
-  const factsText = items.map((item: any) => ({
-    id: item.id,
-    code: item.code ?? null,
-    title: item.title ?? 'Untitled',
-    price: item.price ?? 0,
-    area: item.area ?? null,
-    bedrooms: item.bedrooms ?? null,
-    bathrooms: item.bathrooms ?? null,
-    city: item.location?.city ?? item.cityEN ?? item.cityGR ?? 'Unknown',
-    url: `https://www.kopanitsanos.gr/en/property-detail/${item.id}`,
-  }));
+  // Extract the property list
+  const rawItems = extractRawItems(data);
+  debug('[DEBUG] rawItems after fallback:', rawItems.length);
 
-  console.log('[Claude JSON sent in factsText]', JSON.stringify(factsText, null, 2));
+  // Build the localized facts list
+  const factsText: FactItem[] = buildFacts(rawItems, userLang);
+  debug('[DEBUG] Final factsText before return:', factsText);
+  debug('[Claude JSON sent in factsText]', JSON.stringify(factsText, null, 2));
+
+  // Suggestion messages if no results
+  const suggestions: Record<string, string> = {
+    en: "No results found. Would you like to increase your budget or consider other areas?",
+    el: "Δεν βρέθηκαν αποτελέσματα. Θέλετε να αυξήσετε τον προϋπολογισμό σας ή να εξετάσετε άλλες περιοχές;",
+    fr: "Aucun résultat trouvé. Voulez-vous augmenter votre budget ou considérer d'autres zones ?"
+  };
+
+  // === PATCH: FILTER valid items only ===
+  const validFacts = factsText.filter(
+    item => item && item.code && item.price
+  );
+
+  let html: string;
+  if (!validFacts.length) {
+    html = `
+      <h2 style="font-family:'Segoe UI',Arial,sans-serif;font-size:2rem;margin:30px 0 18px 0;color:#9b1c2e;">
+        ${suggestions[userLang] || suggestions.en}
+      </h2>
+    `;
+  } else {
+    html = generatePropertiesHtml(validFacts, userLang);
+  }
 
   return {
     name: 'Filtered properties',
-    description: 'List of properties matching user filters.',
-    facts: factsText,
+    description: !validFacts.length
+      ? suggestions[userLang] || suggestions.en
+      : 'List of properties matching user filters.',
+    facts: validFacts,
+    __forceOutput: html,
   };
 }
 
+// Export du schéma de config MCP (inchangé)
 export const config: ToolConfig = {
   name: 'filterProperties',
   description: 'Search properties using filters like price range, area, location...',
